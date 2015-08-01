@@ -65,11 +65,15 @@ class Sunstone_Posts_Importer {
 
 			if ( $type == 'title' ) {
 				$title_words = explode( " ", $post->post_title );
-			} elseif ( $type == 'post' ) {
+			}
+
+			elseif ( $type == 'post' ) {
 				if ( ! empty( $post->post_content ) ) {
 					$title_words = explode( " ", wp_strip_all_tags( strip_shortcodes( $post->post_content ), true ) );
 				}
-			} else {
+			}
+
+			else {
 				$title_words = explode( " ", $post->post_title );
 				if ( ! empty( $post->post_content ) ) {
 					$title_words = explode( " ", wp_strip_all_tags( strip_shortcodes( $post->post_content ), true ) );
