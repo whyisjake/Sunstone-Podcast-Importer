@@ -60,6 +60,27 @@ class Sunstone_Posts_Importer {
 
 	}
 
+	/**
+	 * Where do we have the most sessions?
+	 * @return null
+	 */
+	public function speakers( $args, $assoc_args ) {
+
+		$speakers = get_terms( 'speaker', array( 'orderby' => 'count', 'order' => 'DESC', ) );
+
+		foreach ( $speakers as $speaker ) {
+			$length = strlen( $speaker->name );
+			$spaces = 50 - $length;
+			WP_CLI::out( $speaker->name );
+			for ( $i=0; $i < $spaces; $i++ ) {
+				WP_CLI::out( " " );
+			}
+			WP_CLI::out( $speaker->count );
+			WP_CLI::line();
+		}
+
+	}
+
 
 	/**
 	 * Output popular words
