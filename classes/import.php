@@ -3,7 +3,7 @@
 WP_CLI::add_command( 'sunstone', 'Sunstone_CLI' );
 
 /**
- * Wired Core CLI Functions
+ * Sunstone Core CLI Functions
  */
 class Sunstone_CLI extends WP_CLI_Command {
 
@@ -18,8 +18,6 @@ class Sunstone_CLI extends WP_CLI_Command {
 	 * @return 		string             CLI Output.
 	 */
 	public function install( $args, $assoc_args ) {
-
-		WP_CLI::line( 'Jake' );
 
 		$force = isset( $assoc_args['force'] );
 		$default = false;
@@ -39,11 +37,9 @@ class Sunstone_CLI extends WP_CLI_Command {
 		// Have we intalled already?
 		if ( ! $installed or $force ) {
 
-			WP_CLI::line( 'Jake' );
-
 			// Kick off the class.
-			$curator_install = new Sunstone_Posts_Importer();
-			$curator_install->install();
+			$Sunstone_Posts_Importer = new Sunstone_Posts_Importer();
+			$Sunstone_Posts_Importer->install();
 
 			// Update the option
 			update_option( $option, true );
