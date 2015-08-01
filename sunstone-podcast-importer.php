@@ -38,8 +38,31 @@ class Sunstone_Posts_Importer {
 	public function load_resources( $hook ) {
 	}
 
+
 	/**
-	 * Add all of the importer posts
+	 * Where do we have the most sessions?
+	 * @return null
+	 */
+	public function events( $args, $assoc_args ) {
+
+		$events = get_terms( 'event', array( 'orderby' => 'count', 'order' => 'DESC', ) );
+
+		foreach ( $events as $event ) {
+			$length = strlen( $event->name );
+			$spaces = 50 - $length;
+			WP_CLI::out( $event->name );
+			for ( $i=0; $i < $spaces; $i++ ) {
+				WP_CLI::out( " " );
+			}
+			WP_CLI::out( $event->count );
+			WP_CLI::line();
+		}
+
+	}
+
+
+	/**
+	 * Output popular words
 	 * @return null
 	 */
 	public function words( $args, $assoc_args ) {
