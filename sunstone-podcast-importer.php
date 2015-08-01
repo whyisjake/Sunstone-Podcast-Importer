@@ -42,6 +42,91 @@ class Sunstone_Posts_Importer {
 	 * Add all of the importer posts
 	 * @return null
 	 */
+	public function words( $args, $assoc_args ) {
+
+		$bad_words = array( 'the','be','to','of','and','a','in','that','have','I','it','for','not','on','with','he','as','you','do','at','this','but','his','by','from','they','we','say','her','she','or','an','will','my','one','all','would','there','their','what','so','up','out','if','about','who','get','which','go','me','when','make','can','like','time','no','just','him','know','take','person','into','year','your','good','some','could','them','see','other','than','then','now','look','only','come','its','over','think','also','back','after','use','two','how','our','work','first','well','way','even','new','want','because','any','these','give','day','most','us', '-', '&', '-the', '\'the', '.', 'is', 'are', 'i', 'has', 'was', 'many', 'more', 'been', 'such' );
+
+		$args = array(
+			'posts_per_page' => -1,
+			'cat'            => 'podcast',
+		);
+
+		$query = new WP_Query( $args );
+
+		$words = array();
+
+		$type = ( isset( $assoc_args['words'] ) ) ? $assoc_args['words'] : 'both';
+
+		WP_CLI::line( $type );
+
+		foreach ( $query->posts as $post ) {
+
+			$title_words = array();
+
+			if ( $type == 'title' ) {
+				$title_words = explode( " ", $post->post_title );
+			} elseif ( $type == 'post' ) {
+				if ( ! empty( $post->post_content ) ) {
+					$title_words = explode( " ", wp_strip_all_tags( strip_shortcodes( $post->post_content ), true ) );
+				}
+			} else {
+				$title_words = explode( " ", $post->post_title );
+				if ( ! empty( $post->post_content ) ) {
+					$title_words = explode( " ", wp_strip_all_tags( strip_shortcodes( $post->post_content ), true ) );
+				}
+			}
+
+			foreach ( $title_words as $word ) {
+				$word = strtolower( $word );
+				if ( ! array_key_exists( $word, $words ) && ! in_array( strtolower( $word ), $bad_words ) ) {
+					$words[ $word ] = 1;
+				} else {
+					if ( ! in_array( strtolower( $word ), $bad_words ) ) {
+						$words[ $word ]++;
+					}
+				}
+			}
+		}
+
+		arsort( $words );
+
+		$count = count( $words );
+
+		$i = 0;
+
+		foreach ( $words as $word => $number ) {
+
+			if ( $word == 'jesus' ) {
+				WP_CLI::success( $word .': '. $number );
+			} else {
+				WP_CLI::line( $word .': '. $number );
+			}
+
+
+			$number = $number / 10;
+			while ( $number > 0 ) {
+				WP_CLI::out( 'X' );
+				$number--;
+			}
+
+			WP_CLI::line();
+
+			$i++;
+
+			if ( $i > 100 )
+				break;
+		}
+
+		WP_CLI::line( $count . ' total words' );
+
+		// WP_CLI::line( $count );
+
+	}
+
+	/**
+	 * Add all of the importer posts
+	 * @return null
+	 */
 	public function install() {
 
 		$posts = file_get_contents( dirname(__FILE__) . '/posts.js' );
@@ -129,4 +214,4 @@ class Sunstone_Posts_Importer {
 	}
 
 }
-$wired_curator = new Sunstone_Posts_Importer();
+$Sunstone_Posts_Importer = new Sunstone_Posts_Importer();
