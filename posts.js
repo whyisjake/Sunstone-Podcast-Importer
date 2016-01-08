@@ -791,14 +791,14 @@
       "Audio": "SL15224",
       "URL": "http://sunstonemagazine.com/audio/SL15224.mp3",
       "Title": "Why I Don T Need Heavenly Mother",
-      "Presenters": "Marina N. Capella, Christian Anderson, Respondent: Janice Allred",
+      "Presenters": "Marina N. Capella, Christian Anderson, Janice Allred",
       "Description": "The Mormon theology of a Heavenly Mother has been widely discussed as a transcendent and empowering doctrine, especially among Mormon feminists. While we recognize this can be a valuable paradigm for many, this panel will discuss some of its implications. For example, what does a heterosexual god-couple imply for same-gender couples? Would feminizing some attributes through a goddess figure impair the development of those traits in men? Does eternal gender (and associated eternal attributes) abrogate hopes for egalitarian institutions?",
       "tag": "SL",
       "year": "2015",
       "presenters": [
         "Marina N. Capella",
         "Christian Anderson",
-        "Respondent: Janice Allred"
+        "Janice Allred"
       ],
       "number": "224",
       "event": "Salt Lake"
@@ -1366,13 +1366,13 @@
       "Audio": "SL15324",
       "URL": "http://sunstonemagazine.com/audio/SL15324.mp3",
       "Title": "The Ordination Of Women In The Early Christian Church",
-      "Presenters": "Bill McGee, Respondent: Muriel Schmid",
+      "Presenters": "Bill McGee, Muriel Schmid",
       "Description": "The sixth article of faith reads, \"We believe in the same organization that existed in the primitive church...\" History shows that women held a variety of ecclesiastical offices in the early Christian churchÑsuch as deacon, priest, and bishopÑand that these women were ordained to such offices. This paper will examine the role of women in the early Christian church, the leadership roles they held, and the movements that eventually drove them from office.",
       "tag": "SL",
       "year": "2015",
       "presenters": [
         "Bill McGee",
-        "Respondent: Muriel Schmid"
+        "Muriel Schmid"
       ],
       "number": "324",
       "event": "Salt Lake"
