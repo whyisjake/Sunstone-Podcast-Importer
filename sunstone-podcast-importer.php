@@ -211,7 +211,9 @@ class Sunstone_Posts_Importer {
 			$post_content .=  "\n\n";
 			$post_content .= ( ! empty( $post->Presenters ) ) ? $post->Presenters : '';
 
-			WP_CLI::line( strtotime( $post->year ) );
+			if ( defined( 'WP_CLI' ) && WP_CLI ) {
+				WP_CLI::line( strtotime( $post->year ) );
+			}
 
 			$post_arr = array(
 				'post_title'	=> $post->Title,
@@ -224,8 +226,10 @@ class Sunstone_Posts_Importer {
 
 			// Add the post.
 			$pid = wp_insert_post( $post_arr, true );
-			WP_CLI::line( '____' );
-			WP_CLI::line( '| Post: ' . $post->Title );
+			if ( defined( 'WP_CLI' ) && WP_CLI ) {
+				WP_CLI::line( '____' );
+				WP_CLI::line( '| Post: ' . $post->Title );
+			}
 
 			// If it was added, let's start adding the terms.
 			if ( ! is_wp_error( $pid ) ) {
