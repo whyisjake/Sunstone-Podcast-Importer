@@ -219,6 +219,7 @@ class Sunstone_Posts_Importer {
 				'post_content'	=> $post_content,
 				'post_date'		=> date( 'c', mktime( 0, 0, 0, 1, 1, $post->year ) ),
 				'post_date_gmt' => date( 'c', mktime( 0, 0, 0, 1, 1, $post->year ) ),
+				'post_author'   => 0,
 			);
 
 			// Add the post.
@@ -240,13 +241,6 @@ class Sunstone_Posts_Importer {
 				}
 
 				$title = $post->event . ' Symposium ' . $post->year;
-
-				$event = wp_set_object_terms( $pid, $title, 'event', true );
-				if ( ! is_wp_error( $event ) ) {
-					if ( defined( 'WP_CLI' ) && WP_CLI ) {
-						WP_CLI::line('| Event added: ' . $post->event . ' Symposium ' . $post->year );
-					}
-				}
 
 				$event = wp_set_object_terms( $pid, $title, 'event', true );
 				if ( ! is_wp_error( $event ) ) {
