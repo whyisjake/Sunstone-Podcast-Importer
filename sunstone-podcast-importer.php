@@ -28,6 +28,7 @@ class Sunstone_Posts_Importer {
 	 * @return  void
 	 */
 	public function __construct() {
+		add_action( 'admin_init', array( $this, 'manual_install' ) );
 	}
 
 	/**
@@ -36,6 +37,27 @@ class Sunstone_Posts_Importer {
 	 * @return  void
 	 */
 	public function load_resources( $hook ) {
+	}
+
+	/**
+	 * Bluehost has some bugs in WP-CLI and we need a manual method to imporrt posts.
+	 * On admin_init we are going to kick off one process, and then after it is done,
+	 * kill it, so that it doesn't go again.
+	 */
+	public function manual_install() {
+		$default = false;
+		$option = 'have_archive_posts_been_added_manually';
+		$installed = get_option( $option, $default );
+
+		if ( $installed )
+			return;
+
+		// Add the posts.
+		$this->install();
+
+		// Update the option
+		update_option( $option, true );
+
 	}
 
 
