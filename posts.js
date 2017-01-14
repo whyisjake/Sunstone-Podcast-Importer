@@ -1,1802 +1,1468 @@
 {
-  "title": "Sunstone Podcast Import",
-  "posts": [
-    {
-      "Audio": "SL15111",
-      "URL": "http://sunstonemagazine.com/audio/SL15111.mp3",
-      "Title": "Role Of Dissent In The Christian Community",
-      "Presenters": "John Dominic Crossan, D. Michael Quinn",
-      "Description": "The tension between authority and personal conscience can be seen in the citizen's relation to political authority, the scholar's relation to academic authorities, and the believer's relation to the church. The relationship between authority and personal conscience is dialectic: the two are neither identical nor separable, and each is constantly informing the other. Dissent sometimes grows out of this tension. What examples do we have of dissent helping to build a religious community? What examples do we have of when it failed? How do we judge success or failure in these cases?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "John Dominic Crossan",
-        "D. Michael Quinn"
-      ],
-      "number": "111",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15112",
-      "URL": "http://sunstonemagazine.com/audio/SL15112.mp3",
-      "Title": "Ordain Women Where We Go From Here",
-      "Presenters": "Danielle Mooney, Mark Barnes, Kristy Money, Lorie Winder Stromberg, Bryndis Roberts, Debra Jenson, Sean Carter, Joanna Wallace, Gina Colvin",
-      "Description": "Join Ordain Women executive board members as we discuss what it takes to recognize and exhibit personal faith and sacrifice in the face of everyday obstacles and institutionalized sexism. We will be exploring topics such as ecclesiastical sexual abuse, hostility towards feminist thought in ward culture, and how defining one's individual feminism can be your biggest asset. Come join us in understanding what 'faithful agitation' means to Ordain Women.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Danielle Mooney",
-        "Mark Barnes",
-        "Kristy Money",
-        "Lorie Winder Stromberg",
-        "Bryndis Roberts",
-        "Debra Jenson",
-        "Sean Carter",
-        "Joanna Wallace",
-        "Gina Colvin"
-      ],
-      "number": "112",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15113",
-      "URL": "http://sunstonemagazine.com/audio/SL15113.mp3",
-      "Title": "The Mormon Mind Through Art",
-      "Presenters": "Jerilyn Hassell Pool, J. Kirk Richards, Nancy Ross",
-      "Description": "This session will address what it means to be a Mormon artist within a religious art tradition that favors realism. Several Mormon artists working in a range of media will give a brief overview of their work and discuss how their work intersects with their Mormon identity.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jerilyn Hassell Pool",
-        "J. Kirk Richards",
-        "Nancy Ross"
-      ],
-      "number": "113",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15114",
-      "URL": "http://sunstonemagazine.com/audio/SL15114.mp3",
-      "Title": "Who Was Flady",
-      "Presenters": "Tonya Reiter",
-      "Description": "While searching for my great grandmother's origins, I discovered my mother's unknown ethnic heritage, and learned about a part of early Utah history I had known nothing about.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Tonya Reiter"
-      ],
-      "number": "114",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15121",
-      "URL": "http://sunstonemagazine.com/audio/SL15121.mp3",
-      "Title": "Mormon Matters Overlooked Similarities Between Mormons And Other Christians",
-      "Presenters": "Father Tom Roberts",
-      "Description": "Instead of focusing on the well-known places where LDS theology diverges from Christianity at large, this presentation offers a broad overview of our common Christian heritage. Every faith community develops its own vocabulary, and that vocabulary is heavily influenced by the culture it emerges from, meaning that it develops what may seem to be contradictions at first glance, but may actually be hinding commonalities.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Father Tom Roberts"
-      ],
-      "number": "121",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15122",
-      "URL": "http://sunstonemagazine.com/audio/SL15122.mp3",
-      "Title": "The Mormon Mind On Facebook",
-      "Presenters": "Jerilyn Pool, Sara Burlingame, Matthew Nokleby, Nicole Forsgren, Corey Philpot, George Andrew Spriggs,and Brandt Malone",
-      "Description": "What happens to the Mormon mind when it meets the Internet? How do major events in Mormondom affect the Internet? Learn from a group of Mormon Facebook moderators about their experiences dealing with Mormons online.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jerilyn Pool",
-        "Sara Burlingame",
-        "Matthew Nokleby",
-        "Nicole Forsgren",
-        "Corey Philpot",
-        "George Andrew Spriggs",
-        "and Brandt Malone"
-      ],
-      "number": "122",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15123",
-      "URL": "http://sunstonemagazine.com/audio/SL15123.mp3",
-      "Title": "New Thinking For Mormons Involved With Foster Care A Forward Look",
-      "Presenters": "Amanda Farr-Knickerbocker, Ana Nelson Shaw, Jo Overton, Marisa McPeck-Stringham, Brittni Scott, Heather Young, Desiree Miller",
-      "Description": "The Church's history with adoption and foster care is gray area. Efforts like the Indian Placement Program and sometimes-coercive and secretive practices of LDS Social/Family Services were guided by wrong-headed ideas about the superiority of some familiesÑwhite families, wealthy families, temple-sealed familiesÑover others. Mormons who become foster parents are vulnerable to some of the same false ideas. This panel will discuss best practices for foster and foster-adopt parents by sharing personal experiences and answering audience members' questions.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Amanda Farr-Knickerbocker",
-        "Ana Nelson Shaw",
-        "Jo Overton",
-        "Marisa McPeck-Stringham",
-        "Brittni Scott",
-        "Heather Young",
-        "Desiree Miller"
-      ],
-      "number": "123",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15124",
-      "URL": "http://sunstonemagazine.com/audio/SL15124.mp3",
-      "Title": "Why The Heart Is As Important As The Brain Combining New Science With Ancient Wisdom",
-      "Presenters": "Robert A. Rees",
-      "Description": "Jesus said, \"As a person thinks in her heart, so is she.\" Long thought to be just a metaphor, the idea of a thinking heart is now supported by scientific findings revealing that the heart has its own nervous system with an electrical field 60 times greater in amplitude than that of the brain. It generates 5,000 times more electromagnetic energy than the brain, and that sends more information to the brain than the brain sends to the heart. What are the implications of such understanding in terms of epistemology, spiritual inquiry, and revelation?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Robert A. Rees"
-      ],
-      "number": "124",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15125",
-      "URL": "http://sunstonemagazine.com/audio/SL15125.mp3",
-      "Title": "This Is Your Brain On Polygamy",
-      "Presenters": "Joanne Hanks",
-      "Description": "My husband and I didn't just wake up one sunny morning and say, \"Let's join a polygamist cult.\" Over time, a convergence of psychological and social factors ripened us for the picking. Insecurities played a part. So did classic, cultish appeals. So did mainstream Mormonism, not just by laying a doctrinal foundation, but by training members to tolerate cognitive dissonance, and through its own, albeit far less extreme, cultish tendencies. This presentation will examine those factors through my experiences and the work of psychologists such as Frank Sulloway.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Joanne Hanks"
-      ],
-      "number": "125",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15126",
-      "URL": "http://sunstonemagazine.com/audio/SL15126.mp3",
-      "Title": "I Am A Trans Child Of God",
-      "Presenters": "Brianna Cluck, River Digerness, Lucas Kieran Strider, Meli (Curtis) Penfold",
-      "Description": "Featuring people inhabiting different points on the gender spectrum and in various levels of LDS belief, this panel will discuss the unique challenges faced by transgendered people who come from an LDS background.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Brianna Cluck",
-        "River Digerness",
-        "Lucas Kieran Strider",
-        "Meli (Curtis) Penfold"
-      ],
-      "number": "126",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15127",
-      "URL": "http://sunstonemagazine.com/audio/SL15127.mp3",
-      "Title": "Mormons And Marijuana",
-      "Presenters": "Tresa Edmunds, Jody England Hansen",
-      "Description": "In 1970, the US Congress placed marijuana in Schedule I of the Controlled Substances Act because they considered it to have \"no accepted medical use.\" Since then, 23 of 50 US states and DC have legalized the medical use of marijuana, fueling a heated public debate. This panel will explore how the debate interacts with Mormonism, the Word of Wisdom, and the lives of Latter-day Saints.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Tresa Edmunds",
-        "Jody England Hansen"
-      ],
-      "number": "127",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15131",
-      "URL": "http://sunstonemagazine.com/audio/SL15131.mp3",
-      "Title": "Immigration A Moral Issue For The Saints",
-      "Presenters": "William Russell,Terry Read",
-      "Description": "Terry Read is the chair of the Community of Christ World Church's human rights team with members in Africa, South America, Australia, Canada, and the United States. He will discuss how the human rights team has addressed the issue of immigration.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "William Russell",
-        "Terry Read"
-      ],
-      "number": "131",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15132",
-      "URL": "http://sunstonemagazine.com/audio/SL15132.mp3",
-      "Title": "Finding Wisdom Amidst The Quest For Certainty",
-      "Presenters": "Gina Colvin, Paul Malan, Nathan McCluskey, Katie Langston",
-      "Description": "The paradox of being thoughtful while being faithful is a spiritual practice that has failing currency in Mormonism. As the host of A Thoughtful Faith Gina has had the opportunity to interview those at their most spiritually troubled who are seeking a middle-way that feels authentic, honest, faithful, and Mormon. In this audio/visual presentation she will talk about what it means to be in dialogue with troubled conversation partners as they discover and share their emergent wisdom with thousands of friends listening in the wilderness.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Gina Colvin",
-        "Paul Malan",
-        "Nathan McCluskey",
-        "Katie Langston"
-      ],
-      "number": "132",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15133",
-      "URL": "http://sunstonemagazine.com/audio/SL15133.mp3",
-      "Title": "A Gay Mormon Diaspora Exploring The Act Of Testimony And Belief In The Case Study Of Young Single Adult Mormons",
-      "Presenters": "Keven Lewis",
-      "Description": "Through the use of ethnographic investigation, personal interviews, and theoretical research, this paper seeks to understand the role of testimony within the community of young single adult Latter-day Saints of Murfreesboro, Tennessee. It explores the way members with same-sex attraction have voluntarily removed themselves from the LDS community by assuming a diasporic identity, as well as how those members view themselves in regards to the Church and its doctrine. This paper argues that temporality is understood as being both static and fluid which allows church members, through ritualized acts, to move both backward and forward in time to moments of \"rupture\" and \"forever.\"",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Keven Lewis"
-      ],
-      "number": "133",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15134",
-      "URL": "http://sunstonemagazine.com/audio/SL15134.mp3",
-      "Title": "The Conflicting Identities Of Lgbt Mormons",
-      "Presenters": "Amber Whiteley",
-      "Description": "In 2015, Amber Whiteley was a contributing author for a book chapter for the American Psychological Association. Titled Conflicting Identities: Sexual Minority, Transgender, and Gender Nonconforming Individuals Navigating Between Religion and Gender/Sexual Orientation Identity, the chapter discusses various religious identities. Whiteley advocated for Mormons to be included in the chapter. This presentation will discuss the findings from the chapter, and what the implications are for both mental health workers who help the LDS community as well as LDS sexual minorities.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Amber Whiteley"
-      ],
-      "number": "134",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15135",
-      "URL": "http://sunstonemagazine.com/audio/SL15135.mp3",
-      "Title": "The Cogs Of Dissonance And Consonance The Levers Of Control In Lds Doctrine",
-      "Presenters": "Luna Lindsey",
-      "Description": "The policies and doctrines of all groups include tendencies towards psychological manipulation. These persuasion and control techniques function through cognitive dissonance and consonance theory. This talk explores how dogma reinforces itself by boosting cognitive consonance and reducing dissonance. What forms do these \"mental gymnastics\" take? How do LDS teachings display these forms? This talk is likely to cause cognitive dissonance.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Luna Lindsey"
-      ],
-      "number": "135",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15136",
-      "URL": "http://sunstonemagazine.com/audio/SL15136.mp3",
-      "Title": "Supporting The Family Cash Incentivized Larcs Long Acting Reversible Contraceptives",
-      "Presenters": "George R. Compton",
-      "Description": "Many children are being born without the benefit of married parents. Remedy? Family studies economist Isabel V. Sawhill extols highly reliable LARCs (long-acting reversible contraceptives) as being pro-children, pro-life, pro-marriage, and pro-income-equality. Accordingly, why not have the federal government pay female participants enough to make implanted LARCs the norm? Despite its public interest virtures, religious leaders would probably voice opposition to such a policy, construing it as a \"license to fornicate.\" This paper presents a secondary cash incentive that would hopefully neutralize that opposition.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "George R. Compton"
-      ],
-      "number": "136",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15141",
-      "URL": "http://sunstonemagazine.com/audio/SL15141.mp3",
-      "Title": "Lunchtime Presentation 4 Letters 4 Views Of Faith",
-      "Presenters": "Russ Osmond",
-      "Description": "The human mind sees everything through four lenses: the WHY (purpose), the WHAT (facts), the HOW (actions), and the WHO (relationships). We sometimes find ourselves struggling with conflicts between these lenses, especially when it comes to religion. This session will provide an overview of how these lenses function in religion and suggestions on how to make them work together more coherently.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Russ Osmond"
-      ],
-      "number": "141",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15151",
-      "URL": "http://sunstonemagazine.com/audio/SL15151.mp3",
-      "Title": "A Bible A Bible Interacting With The Book Of Mormon",
-      "Presenters": "Cheryl Bruno, Trevor Luke, Michael Reed, Joe Steve Swick III, Ann Taves",
-      "Description": "How one interacts with the Bible as an artifact says as much about one's identity as how one interprets the Bible's concepts. The printed Book of Mormon resembles the Bible, but the story of its production and provenance does not fit the biblical model. This panel will explore the coming forth of the Book of Mormon alongside divine or magical books in extra-biblical traditions including magic, freemasonry, and esoteric traditions in order to consider the re-ritualization of the text as a powerful device for instilling belief and constructing religious identity.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Cheryl Bruno",
-        "Trevor Luke",
-        "Michael Reed",
-        "Joe Steve Swick III",
-        "Ann Taves"
-      ],
-      "number": "151",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15152",
-      "URL": "http://sunstonemagazine.com/audio/SL15152.mp3",
-      "Title": "Author Meets Critics How To Read The Bible And Still Be A Christian",
-      "Presenters": "John Dominic Crossan, Joshua Madson, Sheila Taylor, George D. Smith, R. Dennis Potter",
-      "Description": "This session sets out to examine the tensions of biblical Christianity and how it interacts with Mormonism, the modern age, and social justice.along with the author of How to Read the Bible and Still be a Christian, John Dominic Crossan.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "John Dominic Crossan",
-        "Joshua Madson",
-        "Sheila Taylor",
-        "George D. Smith",
-        "R. Dennis Potter"
-      ],
-      "number": "152",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15153",
-      "URL": "http://sunstonemagazine.com/audio/SL15153.mp3",
-      "Title": "Sunstone The Next Generation",
-      "Presenters": "Katie Davis Henderson, Mark Davis, Ana Nelson Shaw, Michael G. Nelson, Jerilyn Pool, Amanda Farr Knickerbocker",
-      "Description": "Since the 1960s, unorthodox Mormons coalesced around print publications like Sunstone and Dialogue to engage in independent thought about Mormonism. Many of those people are now parents and grandparents. This panel will discuss the challenges of raising children in the Mormon faith, but outside the mainstream. Parents will discuss \"inoculation,\" navigating the politics of church youth programs, and balancing faith and criticism. Finally, the panel will discuss the consequences of a Sunstone upbringing. Does being raised in a Sunstone home inoculate you against faith crises? What is it like growing up in an unorthodox home?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Katie Davis Henderson",
-        "Mark Davis",
-        "Ana Nelson Shaw",
-        "Michael G. Nelson",
-        "Jerilyn Pool",
-        "Amanda Farr Knickerbocker"
-      ],
-      "number": "153",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15154",
-      "URL": "http://sunstonemagazine.com/audio/SL15154.mp3",
-      "Title": "God S Name In Vain Using Faith To Harm Others",
-      "Presenters": "Lindsay Hansen Park, Trevor Jeffs, Kristyn Decker, C. Jane Kendrick, and Stan Shepp",
-      "Description": "Mormon Fundamentalism is often unfairly conflated with dangerous behavior. The reality is that Mormon Fundamentalists are a very diverse group of people with a variety of life experiences and practiced beliefs. Using personal experiences, this panel will explore the spectrum between practicing fundamentalist tenants and becoming a religious extremist.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Lindsay Hansen Park",
-        "Trevor Jeffs",
-        "Kristyn Decker",
-        "C. Jane Kendrick",
-        "and Stan Shepp"
-      ],
-      "number": "154",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15155",
-      "URL": "http://sunstonemagazine.com/audio/SL15155.mp3",
-      "Title": "Does The Concept Of Zion Still Energize Mormon Hearts And Minds Today",
-      "Presenters": "Boyd Petersen, Jim Smithson, Rachel Whipple, Ron Madsen, Warner Woodworth",
-      "Description": "In the early church, talk of building Zion and becoming a Zion people was everywhere. Then, twenty-five years ago, following the publishing of Hugh Nibley's essay collection, Approaching Zion, and then an iconic \"Plotting Zion\" conference co-sponsored by Sunstone the following year, \"Zion\" seemed poised to once again rise up as a vital and energizing concept. But today, we hear much less about it. Has Zion simply become a vague thought, something we strive to practice only \"within our hearts\"? Are there arenas in which it still holds relevance for how we organize our lives and communities?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Boyd Petersen",
-        "Jim Smithson",
-        "Rachel Whipple",
-        "Ron Madsen",
-        "Warner Woodworth"
-      ],
-      "number": "155",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15156",
-      "URL": "http://sunstonemagazine.com/audio/SL15156.mp3",
-      "Title": "New Directions By Mormon Women Signature Panel Discussion With Authors Of Fresh Courage Take",
-      "Presenters": "Jamie Zvirzdin, Ashley Mae Hoiland,Marcee Monroe Ludlow, Sylvia Lankford, Camille Strate Fairbanks, Rachel Brown",
-      "Description": "Six of the twelve contributors to the new book Fresh Courage Take address issues faced by modern Mormon and formerly Mormon women. Authors will speak on ideology, language, motherhood, religious orthodoxy, and more, showing that one heart and many minds can still form Zion.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jamie Zvirzdin",
-        "Ashley Mae Hoiland",
-        "Marcee Monroe Ludlow",
-        "Sylvia Lankford",
-        "Camille Strate Fairbanks",
-        "Rachel Brown"
-      ],
-      "number": "156",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15161",
-      "URL": "http://sunstonemagazine.com/audio/SL15161.mp3",
-      "Title": "Saving Faith The Relationship Of Faith To Knowledge Belief And Works",
-      "Presenters": "Janice Allred",
-      "Description": "Atheist Richard Dawkins sees faith in God as belief without evidence, while Christian theologians defend faith as both reasonable and empirically justified. Although they grant that the evidence for faith is incomplete, they also hold that knowledge of God is not attainable simply through empirical methods. Faith also plays a role in the Christian doctrine of salvation. How is the faith connected with knowledge related to the faith connected with works? Can faith be saved as an eternal principle vital to the pursuit of truth? Can faith save us for and in the kingdom of God?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Janice Allred"
-      ],
-      "number": "161",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15162",
-      "URL": "http://sunstonemagazine.com/audio/SL15162.mp3",
-      "Title": "Scared Sacred How The Horrifying Story Of Joseph Smith S Polygamy Can Help Save Us",
-      "Presenters": "Stephen Carter, D. Michael Quinn",
-      "Description": "Most stories, especially the kind we tell in church and on television, have morals. They're like horses that carry us to known destinations. But a few stories have the power to launch us toward the divine by invoking sheer horror: psychological, emotional, and cognitive. Joseph Smith's polygamy is one of those storiesÑespecially for Mormons. But in order to ride this story, which will threaten at any second to buck us into a sand pit of denial or off the cliff of apostasy, we need to dismantle everything we think we know about how we can know anything.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Stephen Carter",
-        "D. Michael Quinn"
-      ],
-      "number": "162",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15163",
-      "URL": "http://sunstonemagazine.com/audio/SL15163.mp3",
-      "Title": "Woe To The Land Shadowing With Wings William Bickerton The Book Of Mormon And The American Civil War",
-      "Presenters": "Daniel Stone",
-      "Description": "Since 1845, William Bickerton had watched for the fulfillment of Joseph Smith's Civil War prophecy. He believed that devastation, unlike anything Americans had ever experienced, would overtake the nation. It was a principal reason for dissociating himself from Sidney Rigdon and Brigham Young and starting his own church. The paper will explain why Bickerton decided to forsake Rigdon and Young, and will show how the Civil War grounded his belief in the Book of Mormon.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Daniel Stone"
-      ],
-      "number": "163",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15164",
-      "URL": "http://sunstonemagazine.com/audio/SL15164.mp3",
-      "Title": "The Poverty Of Neurotheology Why Recent Discoveries About The Brain Tell Us Nothing Conclusive About The Interface Between Religious Experience And Psychology",
-      "Presenters": "Paul H. Smith",
-      "Description": "Studies show that brain stimulation, or manipulation of a participant's sensory environment, can duplicate certain religious or mystical experiences. Some tout this as evidence that such states are indeed ontologically \"real,\" just not in any supernatural wayÑmerely the consequence of a \"brain hiccup\" of sorts. Loosely known as \"neurotheology,\" this research paradigm is thought to promise a version of physicalism that is sympathetic to claims of religious epiphany, while fitting them into a comfortably materialist niche. But this solution isn't as neat or successful as it seems.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Paul H. Smith"
-      ],
-      "number": "164",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15165",
-      "URL": "http://sunstonemagazine.com/audio/SL15165.mp3",
-      "Title": "Mere Latter Day Saintism",
-      "Presenters": "Jason R. Smith",
-      "Description": "It can be argued that there is no well-defined criteria by which a group may or may not rightly be labeled a Latter Day Saint church nor whether an individual should be considered \"Mormon.\" This paper explores the question, \"How (and by whom) should 'Latter Day Saintism' be defined?\"",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jason R. Smith"
-      ],
-      "number": "165",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15166",
-      "URL": "http://sunstonemagazine.com/audio/SL15166.mp3",
-      "Title": "The Environment A Moral Issue For The Saints",
-      "Presenters": "Christian Anderson, Robert A. Rees",
-      "Description": "Climate change and other environmental issues are threatening the long-term survival of our planet. It is a moral issue for all Christians, yet in the United States and many of the rest of the world's governmental bodies seem incapable of coming up with solutions, mostly because there is money that can be made by exploiting the environment. Latter-day Saints and all people of compassion need to confront this urgent moral issue.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Christian Anderson",
-        "Robert A. Rees"
-      ],
-      "number": "166",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15167",
-      "URL": "http://sunstonemagazine.com/audio/SL15167.mp3",
-      "Title": "Life After Church Discipline",
-      "Presenters": "Carlene George, Maxine Hanks , Don Bradley",
-      "Description": "What happens after the church court? What is the fallout for the excommunicated and his or her family and friends? Panelists will discuss how they came to terms with their excommunication. Have they found peace?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Carlene George",
-        "Maxine Hanks",
-        "Don Bradley"
-      ],
-      "number": "167",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15171",
-      "URL": "http://sunstonemagazine.com/audio/SL15171.mp3",
-      "Title": "Four Views Of Joseph Smith Historians Debate The Prophet Puzzle",
-      "Presenters": "Don Bradley, Ann Taves, Dan Vogel, Christopher C. Smith",
-      "Description": "\"The mystery of Mormonism cannot be solved until we solve the mystery of Joseph Smith,\" Jan Shipps wrote. Four decades later, the prophet continues to puzzle. Was he true prophet, sincere visionary, pious fraud, or con man? In a friendly debate, four historians will each advocate a different hypothesis. Opening statements and rebuttals will be followed by Q&A.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Don Bradley",
-        "Ann Taves",
-        "Dan Vogel",
-        "Christopher C. Smith"
-      ],
-      "number": "171",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15172",
-      "URL": "http://sunstonemagazine.com/audio/SL15172.mp3",
-      "Title": "Mormon Food 2 Electric Boogaloo",
-      "Presenters": "Jerilyn Hassell Pool",
-      "Description": "Last year's popular food panel has been updated with information on jello, funeral potatoes, caffeinated beverages and more jokes.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jerilyn Hassell Pool"
-      ],
-      "number": "172",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15173",
-      "URL": "http://sunstonemagazine.com/audio/SL15173.mp3",
-      "Title": "Sunday School Psychotherapy Mormon Poets On Vulnerability And Madness Healing And Hope",
-      "Presenters": "Tyler Chadwick, Jessica Dixon, Marianne Hales Harding, Robert A. Rees, Bonnie Shiffler, Alex Caldiero",
-      "Description": "Brigham Young once called Joseph Smith a poetÑand poets, Brigham continued, \"are not like other [people]; their gaze is deeper, and reaches the roots of the soul\" Such vision, he said, is akin to having \"the searching eyes of angels\" with which poets can \"catch the swift thought of God and reveal it to us, even at the risk of forgetting their underclothes and their suspenders.\" A poet sees differently than others see; and to see differently is to risk mental, emotional, social, and spiritual instability. Come and hear original poems by six Mormons that meditate on these themes.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Tyler Chadwick",
-        "Jessica Dixon",
-        "Marianne Hales Harding",
-        "Robert A. Rees",
-        "Bonnie Shiffler",
-        "Alex Caldiero"
-      ],
-      "number": "173",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15174",
-      "URL": "http://sunstonemagazine.com/audio/SL15174.mp3",
-      "Title": "Finding The God That Calls To You Faith Transitions And Healing",
-      "Presenters": "Lisa Butterworth, Fatimah S. Salleh",
-      "Description": "This workshop will feature a sermon followed by a group discussion session aimed at tackling the contours of the faith journey, its inevitable transitions, and the dynamics of healing.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Lisa Butterworth",
-        "Fatimah S. Salleh"
-      ],
-      "number": "174",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15175",
-      "URL": "http://sunstonemagazine.com/audio/SL15175.mp3",
-      "Title": "Our Two Different Minds Neurobiological Psychological And Spiritual Implications",
-      "Presenters": "Lee Smith",
-      "Description": "We all have two different minds neurobiologically: One driven by the fearful, judgmental brain amygdala, and the other centered in the wise, reasonable prefrontal cortex (which connects intimately with parts creating compassion). They are different minds because they compete with each other on functional scanning: when one is activated, the other is inhibited. Amygdala overdrive causes health problems (both physical and mental), which improve with spiritual practices that activate the wise prefrontal cortex, creating wellbeing and inhibiting fear and judgmentalism. All this correlates highly with Jesus' teachings about resilience. Awareness of the differences allows choice of which mind to feed.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Lee Smith"
-      ],
-      "number": "175",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15176",
-      "URL": "http://sunstonemagazine.com/audio/SL15176.mp3",
-      "Title": "Battle On The Brain Mormons And War",
-      "Presenters": "Brooke Swallow, Kenneth Lines",
-      "Description": "This session compares and contrast the Protestant \"Just War\" doctrine with historic Mormon attitudes. How did the Saints go from an essentially pacifist worldview to accepting war-time service in place of a mission and writing torture laws for the president?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Brooke Swallow",
-        "Kenneth Lines"
-      ],
-      "number": "176",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15177",
-      "URL": "http://sunstonemagazine.com/audio/SL15177.mp3",
-      "Title": "Mormon Mental Health Association Talking To Your Kids About Sex In A Holistic And Healthy Way",
-      "Presenters": "Kristin Hodson, Alisha Worthington",
-      "Description": "Parents need more help than ever to understand the world their children are navigating. In this presentation, Alisha and Kristin will present strategies for continually talking to your children about healthy sexuality instead trying to cram it into one, dreaded \"talk\". What defines comprehensive sex education for toddlers, kids, and teens?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Kristin Hodson",
-        "Alisha Worthington"
-      ],
-      "number": "177",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15191",
-      "URL": "http://sunstonemagazine.com/audio/SL15191.mp3",
-      "Title": "Faith In Action",
-      "Presenters": "Lacy Bentley, Timothy Ballard, Ed Smart, Jerry Gowen, Rebecca McHood",
-      "Description": "Moroni 7:33 And Christ hath said: If ye will have faith in me ye shall have power to do whatsoever thing is expedient in me. Mormonism is a gospel of faith and works. Come hear how one informs the other as speakers share the events and concepts that animate their religious lives: a little soul baring, a little spiritual journey, a little intellectual testimony bearing. This reflective night is about how faith inspires action and how that action leads us closer to Christ. Plus spirited congregational hymn singing!",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Lacy Bentley",
-        "Timothy Ballard",
-        "Ed Smart",
-        "Jerry Gowen",
-        "Rebecca McHood"
-      ],
-      "number": "191",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15201",
-      "URL": "http://sunstonemagazine.com/audio/SL15201.mp3",
-      "Title": "Paul S Wisdom For Our Religious Conflicts",
-      "Presenters": "Frances Menlove",
-      "Description": "St. Paul's missionary years were not easy. There was trouble among the followers of \"the Way\" in CorinthÑsquabbling, back biting, and playing \"holier than thou.\" In his first letter to the Corinthians, Paul examines some critical questions in a way that can help us modern-day followers navigate the daunting theological and social issues facing the contemporary Church.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Frances Menlove"
-      ],
-      "number": "201",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15211",
-      "URL": "http://sunstonemagazine.com/audio/SL15211.mp3",
-      "Title": "Mormon Genome Project And Critique Of Sexual Polyandry Apologetics",
-      "Presenters": "Scott Rowley",
-      "Description": "The Mormon Genome Project was founded to test for Joseph Smith's progeny through DNA analysis. Specifically, MGP is testing descendants of Josephine Rosetta Lyon to prove whether she was Joseph Smith's biological daughter. This presentation includes an analysis and critique of apologetics relating to Smith's relationship with the Lyon family.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Scott Rowley"
-      ],
-      "number": "211",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15212",
-      "URL": "http://sunstonemagazine.com/audio/SL15212.mp3",
-      "Title": "The Bisexual Mormon Mind",
-      "Presenters": "Alaina Hendricks, Michael Timothy, Cami Trujillo, and James D. Goates",
-      "Description": "This panel will provide insight into the lives and experiences of those who identify as both Mormon and bisexual or biromantic. What kind of experiences have developed from that intersection?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Alaina Hendricks",
-        "Michael Timothy",
-        "Cami Trujillo",
-        "and James D. Goates"
-      ],
-      "number": "212",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15213",
-      "URL": "http://sunstonemagazine.com/audio/SL15213.mp3",
-      "Title": "Living As A Mormon With Autism",
-      "Presenters": "Laura Kipp, Jake Zollinger, Ryan Kipp, Daniel Kipp",
-      "Description": "This panel will discuss the experience of being Mormon and autistic, as well as autism within Mormonism in general. Panel members are a mixture of those who either have autism themselves or have studied it.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Laura Kipp",
-        "Jake Zollinger",
-        "Ryan Kipp",
-        "Daniel Kipp"
-      ],
-      "number": "213",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15214",
-      "URL": "http://sunstonemagazine.com/audio/SL15214.mp3",
-      "Title": "Being Mindful In Your Own Evolution A Panel Discussion With Woman Evolving",
-      "Presenters": "Crystal Scott, Brooke Swallow, Rose Schulz-Jones",
-      "Description": "This session focuses on how to build up and celebrate the evolution of women as they find meaning and express authenticity outside the orthodox foundation they were raised in, using the cues around them to guide their individualized paths.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Crystal Scott",
-        "Brooke Swallow",
-        "Rose Schulz-Jones"
-      ],
-      "number": "214",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15215",
-      "URL": "http://sunstonemagazine.com/audio/SL15215.mp3",
-      "Title": "The Real Housewives Of Zarahemla",
-      "Presenters": "Jerilyn Hassell Pool",
-      "Description": "Women are strikingly absent from the scriptures. Or are they? Using satire, stories, and a little dose of scripture, come listen to Jerilyn Hassell Pool excavate stories of women never before told.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jerilyn Hassell Pool"
-      ],
-      "number": "215",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15216",
-      "URL": "http://sunstonemagazine.com/audio/SL15216.mp3",
-      "Title": "The Middle Way That Goes Beyond Middle Ground",
-      "Presenters": "Mark Crego",
-      "Description": "Thoughtful and faithful middle ways are found in many of the great religious traditions. After exploring the middle ways of Buddhism, Hinduism, Taoism, and Episcopalianism, this presentation will explore a uniquely LDS middle way identity that is distinctly not \"middle ground.\"",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Mark Crego"
-      ],
-      "number": "216",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15217",
-      "URL": "http://sunstonemagazine.com/audio/SL15217.mp3",
-      "Title": "Twenty Years Of The Proclamation On The Family",
-      "Presenters": "Nadine Hansen, Bryndis Roberts, and Christian Anderson",
-      "Description": "\"The Family: A Proclamation to the World\" was first read to the women of the Church at the Annual Women's Meeting in September of 1995. In the years following, the Proclamation has become a standard Mormon wall decoration, gone on to inspire Primary songs, and been referenced in marriage equality legal briefs. This panel discusses how the Proclamation has affected Mormon culture during the past two decades.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Nadine Hansen",
-        "Bryndis Roberts",
-        "and Christian Anderson"
-      ],
-      "number": "217",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15221",
-      "URL": "http://sunstonemagazine.com/audio/SL15221.mp3",
-      "Title": "Why Ritual Makes Sense",
-      "Presenters": "Dan Wotherspoon",
-      "Description": "Religious ritual is strange, but there is a method to its madness. The many forms it takes, from meditation to ecstatic dance, from the solemnity of the LDS endowment to ceremonies involving psychotropic drugs, all point toward a coherent vision of who we are and how this secret is so easily obscured by our day-to-day experience. This session explores why ritual can lead participants to feel empowered with a greater sense of orientation and peace.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Dan Wotherspoon"
-      ],
-      "number": "221",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15222",
-      "URL": "http://sunstonemagazine.com/audio/SL15222.mp3",
-      "Title": "From Not White Enough To Too White The Historical Evolution Of A Mormon Race",
-      "Presenters": "W. Paul Reeve",
-      "Description": "Drawing upon scholarship from his recent book, Religion of a Different Color: Race and the Mormon Struggle for Whiteness, Paul Reeve explores the ways in which outside observers racialized Mormons as not white enough in the nineteenth century. Mormons responded by trying to claim whiteness for themselves, even at the expense of their own black converts. Reeve argues that it is only in viewing Mormon whiteness as a contested variable, not an assumed fact, that a new paradigm emerges for understanding Mormonism's tortured relationship with blackness.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "W. Paul Reeve"
-      ],
-      "number": "222",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15223",
-      "URL": "http://sunstonemagazine.com/audio/SL15223.mp3",
-      "Title": "Postpartum Depression And Beyond An Lds Perspective",
-      "Presenters": "Esther Dale",
-      "Description": "Postpartum mood and anxiety disorders affect hundreds of thousands of women. In addition to providing a basic overview of PPMD, this session will explore how LDS culture currently makes it difficult for PPMD sufferers to seek help. We'll also discuss ways Church leadership, organizations, and members can promote PPMD education, combat its stigma, recognize its symptoms, and offer support to women and families who are surviving, or have survived, PPMD.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Esther Dale"
-      ],
-      "number": "223",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15224",
-      "URL": "http://sunstonemagazine.com/audio/SL15224.mp3",
-      "Title": "Why I Don T Need Heavenly Mother",
-      "Presenters": "Marina N. Capella, Christian Anderson, Janice Allred",
-      "Description": "The Mormon theology of a Heavenly Mother has been widely discussed as a transcendent and empowering doctrine, especially among Mormon feminists. While we recognize this can be a valuable paradigm for many, this panel will discuss some of its implications. For example, what does a heterosexual god-couple imply for same-gender couples? Would feminizing some attributes through a goddess figure impair the development of those traits in men? Does eternal gender (and associated eternal attributes) abrogate hopes for egalitarian institutions?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Marina N. Capella",
-        "Christian Anderson",
-        "Janice Allred"
-      ],
-      "number": "224",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15225",
-      "URL": "http://sunstonemagazine.com/audio/SL15225.mp3",
-      "Title": "Triangles Of Shame Adoption Within Mormonism",
-      "Presenters": "Christy Crowe Hughes",
-      "Description": "Mormonism has a unique relationship with adoption that culminates in the doctrine and ordinance of sealing. While powerful in its eternal implications, many of the root ideas surrounding this doctrine are problematic to the psychological, emotional, and physical health of persons involved in the adoption triangle: adoptee, birth parents and adoptive parents. This paper identifies shame cycles specific to Mormon culture that impact adoption triangle identities and relationships; it also explores current social science theories that can aid and empower individuals, couples, and families to act in wisdom and order.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Christy Crowe Hughes"
-      ],
-      "number": "225",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15226",
-      "URL": "http://sunstonemagazine.com/audio/SL15226.mp3",
-      "Title": "Transmormons",
-      "Presenters": "Robert A. Rees, Neca Allgood, Sara Jade Woodhouse, and Grayson Moore",
-      "Description": "In its \"The Family: A Proclamation to the World,\" the LDS Church declares that \"Gender is an essential characteristic of individual premortal, mortal, and eternal identity and purpose.\" What are the implication of this declaration for transgender individuals? This session seeks to bring clarity to the matter of non-conforming gender identity and its expression among Mormons, and to examine policy and practice within the Mormon community in light of science and scripture.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Robert A. Rees",
-        "Neca Allgood",
-        "Sara Jade Woodhouse",
-        "and Grayson Moore"
-      ],
-      "number": "226",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15227",
-      "URL": "http://sunstonemagazine.com/audio/SL15227.mp3",
-      "Title": "Mormon Mental Health Association Living A Life Of Paradox And Personal Growth",
-      "Presenters": "Verlyne Christensen, Natasha Helfer Parker",
-      "Description": "This presentation will address the emergence of feminist consciousness and the experience of feminist women in a patriarchal religion. Within the context of human development, it will also address the challenges and personal growth arising from living a life of paradox.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Verlyne Christensen",
-        "Natasha Helfer Parker"
-      ],
-      "number": "227",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15231",
-      "URL": "http://sunstonemagazine.com/audio/SL15231.mp3",
-      "Title": "The Plural Marriage Revelations Of Joseph Smith",
-      "Presenters": "Clair Barrus",
-      "Description": "The recent Gospel Topics essay \"Plural Marriage in Kirtland and Nauvoo\" asserts that Joseph Smith received the revelation authorizing polygamy around 1831 and that \"the revelation on plural marriage was not written down until 1843.\" However, the 1843 version of the revelation responds to contemporary events, raising such questions as: How much of the revelation came from 1831 and how much was given in 1843? Were there other revelations on the subject between those dates? This presentation reviews about a dozen additional revelations received by Joseph regarding plural marriage.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Clair Barrus"
-      ],
-      "number": "231",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15232",
-      "URL": "http://sunstonemagazine.com/audio/SL15232.mp3",
-      "Title": "Honesty In The Borderlands",
-      "Presenters": "D. Jeff Burton, Dan Wotherspoon",
-      "Description": "Honesty is central to the Mormon experience. But in the borderlands, the questions get harder: How should we answer temple interview and worthiness questions? What do we tell family, neighbors, friends, and church officials when they ask about our beliefs and feelings? How do we deal with the internal psychological conflicts? This session will explore these important issues and share the experiences of those who have confronted tests of honesty.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "D. Jeff Burton",
-        "Dan Wotherspoon"
-      ],
-      "number": "232",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15233",
-      "URL": "http://sunstonemagazine.com/audio/SL15233.mp3",
-      "Title": "Mormon Feminists A New Generation",
-      "Presenters": "Amber Whitely, Jacob Newman, David Pearson, Jamie Pearson, Paula Baker",
-      "Description": "This session features a panel discussion by the founders and organizers of the website I'm a Mormon Feminist. They will discuss the psychological, social, familial, and communicative implications of the website and its goals while placing it in the context of Mormon feminism.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Amber Whitely",
-        "Jacob Newman",
-        "David Pearson",
-        "Jamie Pearson",
-        "Paula Baker"
-      ],
-      "number": "233",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15235",
-      "URL": "http://sunstonemagazine.com/audio/SL15235.mp3",
-      "Title": "Standing Outside The Circle The Impact On The Self Couple And Family",
-      "Presenters": "Verlyne Christensen",
-      "Description": "In this presentation, I will explore the impact on individuals, couples and families as they navigate religious issues, faith transitions and find their way in or outside their faith. I will also discuss the challenges and benefits on personal growth, relationships and parenting. Finally, I will address practical ways we can create the space where multi-belief relationships can flourish. Or can it be done?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Verlyne Christensen"
-      ],
-      "number": "235",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15236",
-      "URL": "http://sunstonemagazine.com/audio/SL15236.mp3",
-      "Title": "All Fall Short An Interfaith Panel On Sin",
-      "Presenters": "Katie Langston, Robin Linkhart, Caru Das Adikhary, Fatimah S. Salleh",
-      "Description": "Few concepts are as foundational to world religions as sin. But what is sin? Is it a violation of eternal law? A heart turned in on itself? Behaviors that create negative karma? An action? A state of being? This interfaith panel will explore sin from a variety of theological perspectives and will tackle not only what sin IS, but what people of faith are supposed to do about it.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Katie Langston",
-        "Robin Linkhart",
-        "Caru Das Adikhary",
-        "Fatimah S. Salleh"
-      ],
-      "number": "236",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15237",
-      "URL": "http://sunstonemagazine.com/audio/SL15237.mp3",
-      "Title": "Of One Heart And Mind Unity And Pluralism In Mormonism",
-      "Presenters": "Christopher Bradford",
-      "Description": "This presentation draws on scripture, the teachings of Church leaders (such as President Uchtdorf's general conference address encouraging diversity), and scholarship (such as Standing Apart: Mormon Historical Consciousness and the Concept of Apostasy) to examine the creative tension between unity and diversity within Mormonism and to propose a model for thinking about a pluralistic unity for Mormonism as it moves forward.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Christopher Bradford"
-      ],
-      "number": "237",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15241",
-      "URL": "http://sunstonemagazine.com/audio/SL15241.mp3",
-      "Title": "Brother Jake Does Sunstone",
-      "Presenters": "Jake Frost",
-      "Description": "Creator of the Brother Jake video series, Jake Frost turns his sardonic lens onto Sunstone. This session will debut a Brother Jake video specifically about the Sunstone organization, mixed with a few other Brother Jake classics.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jake Frost"
-      ],
-      "number": "241",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15251",
-      "URL": "http://sunstonemagazine.com/audio/SL15251.mp3",
-      "Title": "Why We Stay",
-      "Presenters": "Gina Colvin, Mitch Mayne, Ken Driggs, Kalani Tonga, and Fatimah S. Salleh",
-      "Description": "This perennially well-received session features the stories of those who have chosen to remain active, dedicated, Latter-day Saints, even in the face of challenges to traditional faith.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Gina Colvin",
-        "Mitch Mayne",
-        "Ken Driggs",
-        "Kalani Tonga",
-        "and Fatimah S. Salleh"
-      ],
-      "number": "251",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15261",
-      "URL": "http://sunstonemagazine.com/audio/SL15261.mp3",
-      "Title": "Joseph Smith S First Vision Imagery Neurology And The Construction Of Memory",
-      "Presenters": "Robert A. Rees",
-      "Description": "Many critics of Mormonism assert that Joseph Smith invented the First Vision and then deliberately altered the details in subsequent retellings over the years so as to mislead his followers. This paper, based on textual analysis and neurology, posits an alternative explanation.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Robert A. Rees"
-      ],
-      "number": "261",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15262",
-      "URL": "http://sunstonemagazine.com/audio/SL15262.mp3",
-      "Title": "Femwoc Women Of Color Crash The Bloggernacle Party",
-      "Presenters": "Gina Colvin, Bryndis Roberts, Jennifer Gonzalez, Natasha Smith, and Kalani Tonga",
-      "Description": "FEMWOC is a Mormon-themed blog that started in 2015 highlighting the voices of women of color in the church. Come learn about the women behind it all.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Gina Colvin",
-        "Bryndis Roberts",
-        "Jennifer Gonzalez",
-        "Natasha Smith",
-        "and Kalani Tonga"
-      ],
-      "number": "262",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15263",
-      "URL": "http://sunstonemagazine.com/audio/SL15263.mp3",
-      "Title": "White Delightsome On The Straight Narrow The Intersection Of Mormon Heteronormativity Race Respectability And Grace",
-      "Presenters": "George Andrew Spriggs",
-      "Description": "While most white Mormons today would never think to tell a black Mormon that he or she will become \"white and delightsome\" in the next life if righteous enough, how many would tell their LGBT brother and sisters they can become heterosexual and/or gender-conforming in the next life? Spriggs, a fringe black Mormon, shares how he came to appreciate \"white and delightsome\" theology as a compassionate, grace-full (though misguided) response to the social reality of race in America. He argues that its loss is a backward step for Mormon racial understandings.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "George Andrew Spriggs"
-      ],
-      "number": "263",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15264",
-      "URL": "http://sunstonemagazine.com/audio/SL15264.mp3",
-      "Title": "History Derailed William Law And His Detractors",
-      "Presenters": "Tom Kimball, D. Michael Quinn",
-      "Description": "This paper explores stories about William LawÑJoseph Smith's one-time second counselor who became co-editor of the Nauvoo Expositor. These sometimes dubious narratives, such as those found among the descendants of Charles Stoddard, serve to elevate the family's status by disparaging Law who quickly became a villain after the death of the Prophet.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Tom Kimball",
-        "D. Michael Quinn"
-      ],
-      "number": "264",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15265",
-      "URL": "http://sunstonemagazine.com/audio/SL15265.mp3",
-      "Title": "Why Some Leave And Others Stay An Explanatory Hypothesis",
-      "Presenters": "Steven Garff",
-      "Description": "The question of why some people become disaffected with Mormonism while others do not is the source of frequent, heated debate. This presentation will compare the most common explanations with alternatives inspired by contemporary scientific research on relationship stability by John Gottman and others.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Steven Garff"
-      ],
-      "number": "265",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15266",
-      "URL": "http://sunstonemagazine.com/audio/SL15266.mp3",
-      "Title": "Testimony And Disagreement In Mormonism",
-      "Presenters": "R. Dennis Potter",
-      "Description": "Clearly, testimony plays a central role in Mormonism. Does it play an epistemic role? And if so, what is it? Is this role justified? This paper will argue that the primary role for testimony in Mormonism is deference to the testimonies of the Church leadership. I will argue that this role for testimony in religious belief is not justified from a philosophical point of view. To make my case I will give a brief tour of some recent work in the epistemology of testimony.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "R. Dennis Potter"
-      ],
-      "number": "266",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15267",
-      "URL": "http://sunstonemagazine.com/audio/SL15267.mp3",
-      "Title": "Racial Curses And Marks In Joseph Smith S Scriptural Texts",
-      "Presenters": "Ryan Stuart Bingham",
-      "Description": "LDS racial histories have mostly viewed the racial narratives in the Joseph Smith translation of the Bible and the Book of Abraham in relation to their publication and reception rather than Joseph Smith's acts of constructing and dictating them. Joseph Smith based these narratives on his understandings of the curse of Ham myth and its Cain-theory variant, proposing his own solutions to the problems facing these racial myths, constructing them as explanations of providential history.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Ryan Stuart Bingham"
-      ],
-      "number": "267",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15271",
-      "URL": "http://sunstonemagazine.com/audio/SL15271.mp3",
-      "Title": "Mormonism Beyond The Mainstream Practicing Celestial Marriage On Earth",
-      "Presenters": "Anne Wilde, Kevin Kraut, Christine Mackley, Stan Shepp",
-      "Description": "The prevailing belief among mainstream Mormons seems to be that those who practice polygamy have been brainwashed into doing so by insular communities. But what of those whose journeys led them through the mainstream LDS Church into the practice of polygamy? This panel will address these faithful members who are \"doing\" Mormonism outside of the confines of the mainstream church.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Anne Wilde",
-        "Kevin Kraut",
-        "Christine Mackley",
-        "Stan Shepp"
-      ],
-      "number": "271",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15272",
-      "URL": "http://sunstonemagazine.com/audio/SL15272.mp3",
-      "Title": "Author Meets Critics Moroni And The Swastika Mormons In Nazi Germany",
-      "Presenters": "David Conley Nelson, Will Bagley, Kevin Jones, and Robert A. Rees",
-      "Description": "Fifteen years ago, David Conley Nelson wrote about LDS Church collaboration in Nazi Germany, winning the Juanita Brooks Award for the best graduate student pape from the Mormon History Association. His research became his doctoral dissertation, and, this year, a monograph published by the University of Oklahoma Press. This panel, including members of the Journal of Mormon History's past executive committee, will discuss the evolution from paper to book, and how it deals with the memory of a controversial period in Church history.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "David Conley Nelson",
-        "Will Bagley",
-        "Kevin Jones",
-        "and Robert A. Rees"
-      ],
-      "number": "272",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15273",
-      "URL": "http://sunstonemagazine.com/audio/SL15273.mp3",
-      "Title": "Foundational Murder The Slaying Of Laban",
-      "Presenters": "Joshua Madson",
-      "Description": "The Book of Mormon shows that real peace can only come if the roots of a conflict are identified and the foundational stories and beliefs that gave rise to the conflict are rejected. These foundational narratives were at the heart of Nephite and Lamanite hatred, trapping both communities in a cycle of violence. By looking closely at the slaying of Laban, we can see how it fits into the larger Book of Mormon structure and reveals both the cause of and solution to violent conflicts.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Joshua Madson"
-      ],
-      "number": "273",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15274",
-      "URL": "http://sunstonemagazine.com/audio/SL15274.mp3",
-      "Title": "The Worth Of Souls Is Great How The Theory Of An Atheist Supports The Gospel Of Jesus Christ In Promoting Psychological Well Being",
-      "Presenters": "Mica McGriggs, Tristin Roney",
-      "Description": "The main assumption of Rational Emotive Behavioral Therapy is that humans have inherent value. Doctrine and Covenants 18:10 teaches that the worth of souls is great in the sight of God. But often aspects of LDS doctrine have been used to accuse and shame. This presentation will use REBT to explore how re-conceptualization can promote healing.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Mica McGriggs",
-        "Tristin Roney"
-      ],
-      "number": "274",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15275",
-      "URL": "http://sunstonemagazine.com/audio/SL15275.mp3",
-      "Title": "Apollo And Dionysus The Reconciliation Of Our Heavenly Parents",
-      "Presenters": "Jimmy Jones",
-      "Description": "For several generations, a canonical mischaracterization of God the Father has blinded Latter-day Saints to God the Mother, altered perceptions of the relationship between the mind/spirit and body, and fostered the political conservatism ascendant in Mormonism. This paper deals with the disparity between the concept of deity currently dominating Latter-day Saint conversation and the concept presented in the Book of Mormon and Doctrine & Covenants.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jimmy Jones"
-      ],
-      "number": "275",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15276",
-      "URL": "http://sunstonemagazine.com/audio/SL15276.mp3",
-      "Title": "The Restoration Imperative Parallel Worlds Of Mormonism And Freemasonry",
-      "Presenters": "Michael W. Homer",
-      "Description": "Recently, students of Mormonism have written about teachings and policies Joseph Smith introduced (beyond temple rituals and Book of Mormon themes) which have Masonic associations. This paper will discuss these concepts and how these aspects probably reflect Joseph Smith's \"restoration imperative\".",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Michael W. Homer"
-      ],
-      "number": "276",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15277",
-      "URL": "http://sunstonemagazine.com/audio/SL15277.mp3",
-      "Title": "The State Of Queer Activism In Zion",
-      "Presenters": "Sara Burlingame, Troy Williams, Sharon Groves, Jim Dabakis",
-      "Description": "This panel will discuss the activities of being a faith organizer in Wyoming, particularly her work leading up to the 2015 legislative session that saw the narrow defeat of the non-discrimination bill in Wyoming. Sara will discuss her interactions with Catholic, Evangelical, and Mormon faith leaders, what she learned about the state of discourse in those denominations, and how her own biases came to bear on the dialogue.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Sara Burlingame",
-        "Troy Williams",
-        "Sharon Groves",
-        "Jim Dabakis"
-      ],
-      "number": "277",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15291",
-      "URL": "http://sunstonemagazine.com/audio/SL15291.mp3",
-      "Title": "The Religious Brain Project",
-      "Presenters": "Michael Adam Ferguson",
-      "Description": "Dr. Michael Adam Ferguson will present groundbreaking research on how the religious brain works. Using data from brain imaging scans, Ferguson will talk about what happens in the brain when praying, recalling spiritual experiences, or feeling a \"prompting.\" A Q&A session will follow.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Michael Adam Ferguson"
-      ],
-      "number": "291",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15301",
-      "URL": "http://sunstonemagazine.com/audio/SL15301.mp3",
-      "Title": "Devotional Glory",
-      "Presenters": "Robert A. Rees",
-      "Description": "Glory is a central concept in Mormon theology. Latter-day Saints speak of God's glory, of the glory it is possible for us to experience in mortality, and of the \"degrees of glory\" that will define our eternal existence. This devotional explores the nature, meaning, and dimensions of this supreme experience and state. It includes portrayals of glory in art and music.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Robert A. Rees"
-      ],
-      "number": "301",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15311",
-      "URL": "http://sunstonemagazine.com/audio/SL15311.mp3",
-      "Title": "Turning The Mic On John A Celebration Of 10 Years Of Mormon Stories",
-      "Presenters": "John Dehlin, Lindsay Hansen Park",
-      "Description": "In this session, FMH podcaster Lindsay Hansen-Park will host a Mormon Stories interview with John Dehlin about his most recent Mormon story: being excommunicated from the LDS Church.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "John Dehlin",
-        "Lindsay Hansen Park"
-      ],
-      "number": "311",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15312",
-      "URL": "http://sunstonemagazine.com/audio/SL15312.mp3",
-      "Title": "Queer Mormon Women",
-      "Presenters": "Brianna Cluck, Ellen Koester, Kristen Cardon, Chelsea Gibbs, Megan Howarth, Jessica Swenson, Averyl Dietering",
-      "Description": "This panel features queer Mormon women from various levels of church involvement and various places on the spectrum of sexual or romantic orientation. They will offer insights into the diverse experiences of people inhabiting the intersection between Mormonism, LGBTQIA+ experience, and feminism.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Brianna Cluck",
-        "Ellen Koester",
-        "Kristen Cardon",
-        "Chelsea Gibbs",
-        "Megan Howarth",
-        "Jessica Swenson",
-        "Averyl Dietering"
-      ],
-      "number": "312",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15313",
-      "URL": "http://sunstonemagazine.com/audio/SL15313.mp3",
-      "Title": "Church For The Unchurched The Case For Non Dogmatic Religion In The 21 St Century",
-      "Presenters": "John Hamer",
-      "Description": "As traditional Christian denominations fail to offer relevance to an increasing number of young people, the proportion of the unchurched \"nones\"Ñthose who answer \"none\" in surveys of religious affiliationÑcontinues to rise within the developed world. Nevertheless, studies of Millennials show a generation far more concerned with purpose-driven actions and a desire for meaning-filled lives than its predecessors. Can any organized religion appeal to a generation which increasingly identifies as \"spiritual but not religious\"? And, if so, what might Millennials stand to lose and to gain by participating?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "John Hamer"
-      ],
-      "number": "313",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15314",
-      "URL": "http://sunstonemagazine.com/audio/SL15314.mp3",
-      "Title": "Lds Sexual Abuse Survivors A Look Into The Healing Process",
-      "Presenters": "Amber Whiteley",
-      "Description": "This presentation will review some studies about how religious communities can both help and hinder healing from sexual abuse. It will focus on apects specific to LDS survivors, and what the Church has done to address sexual assault victims. We will also discuss the LDS community's unique culture and how it may impact the healing process.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Amber Whiteley"
-      ],
-      "number": "314",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15315",
-      "URL": "http://sunstonemagazine.com/audio/SL15315.mp3",
-      "Title": "I Took This To Mean Poetry S Communal Moment And The Virtues Of Textual Intimacy",
-      "Presenters": "Tyler Chadwick",
-      "Description": "This presentation is a reflection on my encounters with Latter-day Saint sexual mores through Mormon theology's expansive view of embodiment, procreation, and desire. I weigh these encounters against my readerly desires, my family relationships, and my experience with specific poems by American poets Lucille Clifton, Sharon Olds, Walt Whitman, Allen Ginsberg, and Javen Tanner. The result is a mosaic showing how these influences have shaped my understanding of Mormonism, eroticism, and literature.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Tyler Chadwick"
-      ],
-      "number": "315",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15316",
-      "URL": "http://sunstonemagazine.com/audio/SL15316.mp3",
-      "Title": "Immigration Mormon Humanitarian Perspectives",
-      "Presenters": "Jennifer Gonzalez, Carlos Saavedra, Joseph Wheeler",
-      "Description": "The panel will raise questions about the LDS community's engagement with immigration debates and share personal narratives from the front lines of the political, legal, and humanitarian battlefront. The founders of Torchlight Legal will discuss how they are applying Silicon Valley innovation to the legal needs of asylum seekers. Two leaders in the immigrant youth movement will share how they are training young people in the U.S. and Mexico to lead the fight for legal reform.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jennifer Gonzalez",
-        "Carlos Saavedra",
-        "Joseph Wheeler"
-      ],
-      "number": "316",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15317",
-      "URL": "http://sunstonemagazine.com/audio/SL15317.mp3",
-      "Title": "In Defense Of Rev Jeremiah Wright",
-      "Presenters": "William Russell",
-      "Description": "During the 20008 presidential campaign, Barack Obama's pastor, Jeremiah Wright, was \"exposed\" as a radical and \"un-American\" when Fox News broadcast his statement: \"It's not God bless America, it's God damn America!\" For some Americans, that statement was enough to disqualify Obama for the presidency. However, this paper will defend Rev. Wright as a spokesman in the tradition of the Hebrew prophets, and contend that Latter-day Saints, and all Christians, can learn from him.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "William Russell"
-      ],
-      "number": "317",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15321",
-      "URL": "http://sunstonemagazine.com/audio/SL15321.mp3",
-      "Title": "Beyond An American Church Mormon Feminism In Mexico",
-      "Presenters": "Anya Tinajero",
-      "Description": "Violence against women in Mexico is an everyday reality; they suffer from it beginning at a very young age. There is great need for a conversation about Mormon feminism in Mexico, how it affects the women there, and how we as Saints can broaden the discussion to include our brothers and sisters around the world. This presentation takes a closer look at intersectional feminism and the Mormon Church in Mexico.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Anya Tinajero"
-      ],
-      "number": "321",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15322",
-      "URL": "http://sunstonemagazine.com/audio/SL15322.mp3",
-      "Title": "Mormon Mental Health Association The Other Poly Navigating Consensual Non Monogamy",
-      "Presenters": "Adam Fisher, Mary Fisher",
-      "Description": "This session will present research on various types of consensual non-monogamy, including a recent survey by the two presenters. Ideas for making ethical decisions along the way will be explored. Note: The session will also be of interest to monogamous individuals who simply want to better understand consensual non-monogamy.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Adam Fisher",
-        "Mary Fisher"
-      ],
-      "number": "322",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15323",
-      "URL": "http://sunstonemagazine.com/audio/SL15323.mp3",
-      "Title": "Some Love A Plunge Deep Into The Scramble Of Human Emotions With A Poet Sonosopher",
-      "Presenters": "Alex Caldiero",
-      "Description": "From his childhood in Sicily as a Catholic altar boy through his latter days as a Mormon \"saint,\" Caldiero recalls his passion for performance and for the sensual liturgical marriage of physical spaceÑthe church or temple properÑwith bodily space. This ritualized confluence of architectural structure, human bodies, images, movements, smells, and sounds affects him as much today as it did in the past. It is this visceral memory of religious ritual that keeps him striving for a poetic creation and richness that achieves a depth of meaning.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Alex Caldiero"
-      ],
-      "number": "323",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15324",
-      "URL": "http://sunstonemagazine.com/audio/SL15324.mp3",
-      "Title": "The Ordination Of Women In The Early Christian Church",
-      "Presenters": "Bill McGee, Muriel Schmid",
-      "Description": "The sixth article of faith reads, \"We believe in the same organization that existed in the primitive church...\" History shows that women held a variety of ecclesiastical offices in the early Christian churchÑsuch as deacon, priest, and bishopÑand that these women were ordained to such offices. This paper will examine the role of women in the early Christian church, the leadership roles they held, and the movements that eventually drove them from office.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Bill McGee",
-        "Muriel Schmid"
-      ],
-      "number": "324",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15325",
-      "URL": "http://sunstonemagazine.com/audio/SL15325.mp3",
-      "Title": "Data Analysis Of 30 Years Of Sunstone Talks",
-      "Presenters": "Jake Spurlock",
-      "Description": "After migrating all the Sunstone symposium audio to WordPress and creating the podcast feed, Jake was struck at how many themes had been recycled over the years. This presentation will discuss how the Mormon Studies playing field has been discussing similar issues for over 30 years.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jake Spurlock"
-      ],
-      "number": "325",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15326",
-      "URL": "http://sunstonemagazine.com/audio/SL15326.mp3",
-      "Title": "Which God Is Mine Modifying Frameworks Animating Faith",
-      "Presenters": "Victor Walker",
-      "Description": "With our stories and experiences, we create frameworks through which we filter everything we see, hear, and do. Understanding how our mind develops and processes \"frameworks\" can help us understand and navigate changing faith. It can also help us understand how our foundational stories of God, church, prophets, and what it means to be a \"good person\" can produce such different Mormon experiences.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Victor Walker"
-      ],
-      "number": "326",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15331",
-      "URL": "http://sunstonemagazine.com/audio/SL15331.mp3",
-      "Title": "Mormons And The Equal Rights Amendment",
-      "Presenters": "S. Mark Barnes, Chelsea Shields, Anissa Rasheta",
-      "Description": "This is a panel discussion on the history of Mormons and the Equal Rights Amendment. It will feature discussion on the current state of the ERA, and how some Mormons are planning to push toward its enactment.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "S. Mark Barnes",
-        "Chelsea Shields",
-        "Anissa Rasheta"
-      ],
-      "number": "331",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15332",
-      "URL": "http://sunstonemagazine.com/audio/SL15332.mp3",
-      "Title": "Joseph As Reader Bible Stories And Mormon Religion",
-      "Presenters": "Susan Staker",
-      "Description": "This presentation explores the narrative strategies that characterize Joseph Smith's readings, or \"translations,\" of Bible stories (the Book of Mormon, a New Translation, the Book of Abraham, temple rituals, environing revelations). Characters evolve and change in these transformed stories, and Joseph himself becomes a character, re-enacting the plot as his friends follow. Understanding how theology is belatedly spun from these dramas is a first step in any approach to the Mormon story.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Susan Staker"
-      ],
-      "number": "332",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15333",
-      "URL": "http://sunstonemagazine.com/audio/SL15333.mp3",
-      "Title": "Expectations Life Events And Efficacy The Utah Women S Education Gap",
-      "Presenters": "Danielle Christensen",
-      "Description": "This presentation will examine Utah women's declining graduation rates and analyze how LDS culture impacts both the decisions women make and their ability to make them. Beginning with a historical context, the presentation will focus on 1) how this dynamic translates into the lived experiences of women, 2) the barriers and social support Utah women face, and 3) an asset-based approach that can empower women.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Danielle Christensen"
-      ],
-      "number": "333",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15334",
-      "URL": "http://sunstonemagazine.com/audio/SL15334.mp3",
-      "Title": "Beyond Passive Aggression Creating A Culture Of Collaboration",
-      "Presenters": "Michael J. Stevens",
-      "Description": "Recent research has demonstrated that the Latter-day Saint community (especially along the Wasatch Front) has developed an unhealthy culture of passive-aggression. What can be done about this? Rather than focusing on the dysfunction, this paper will present a variety of concrete steps, learnable skills, and case studies that show us ways to develop healthy collaborative norms in LDS culture.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Michael J. Stevens"
-      ],
-      "number": "334",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15335",
-      "URL": "http://sunstonemagazine.com/audio/SL15335.mp3",
-      "Title": "Be Fruitful And Multiply The Intersection Of Faith And Foundational Belief",
-      "Presenters": "Crystal Scott, Rose Schulz-Jones, Brooke Swallow, Joseph Stanford, MD",
-      "Description": "Latter-day Saints are frequently taught that the first commandment God gave to Adam and Eve was to \"be fruitful, and multiply, and replenish the earth\" (Genesis 1:28). Psalm 127:3 declares, \"Children are a heritage of the Lord.\" Many Church leaders have taught that those who are physically able have the sacred responsibility to bear and raise children. However, many Mormons still practice birth control.This presentation will examine conventional and alternative birth control methods.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Crystal Scott",
-        "Rose Schulz-Jones",
-        "Brooke Swallow",
-        "Joseph Stanford",
-        "MD"
-      ],
-      "number": "335",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15336",
-      "URL": "http://sunstonemagazine.com/audio/SL15336.mp3",
-      "Title": "Old Habits Die Hard Mormon Paradigms Post Belief",
-      "Presenters": "John Larsen",
-      "Description": "While those leaving the Church may reject the truth claims of their erstwhile faith, some of their thought patterns remain. This session will discuss the most common \"Mormon\" paradigms that ex-Mormons tend to retain and how it impacts their worldview.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "John Larsen"
-      ],
-      "number": "336",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15341",
-      "URL": "http://sunstonemagazine.com/audio/SL15341.mp3",
-      "Title": "Mormon Food 2 Electric Boogaloo Encore Presentation",
-      "Presenters": "Jerilyn Hassell Pool",
-      "Description": "This is an encore presentation from session 171.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jerilyn Hassell Pool"
-      ],
-      "number": "341",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15351",
-      "URL": "http://sunstonemagazine.com/audio/SL15351.mp3",
-      "Title": "Mormon Women S Forum Women And The Church Addressing Lds Feminist Concerns",
-      "Presenters": "Janice Allred, Margaret Toscano, April Young Bennett, and Cynthia Robbins Newman",
-      "Description": "Neylan McBaine's recent book, Women At Church: Magnifying LDS Women's Local Impact, explores ways in which the Church can better use the talents of women and include them more fully in local congregations without ordaining them to priesthood offices or changing anything in the structure of Church governance. This panel will discuss the ideas in McBaine's book, exploring the question, \"Can feminist concerns be met without priesthood ordination ?\"",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Janice Allred",
-        "Margaret Toscano",
-        "April Young Bennett",
-        "and Cynthia Robbins Newman"
-      ],
-      "number": "351",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15352",
-      "URL": "http://sunstonemagazine.com/audio/SL15352.mp3",
-      "Title": "Infants On Thrones The Healing Power Of Mingling Humor With The Philosophies Of Men And Occasionally Some Women An Interactive Journey Through The Nether Regions Of The Mormon Mind",
-      "Presenters": "Scott Rowley, Glenn Ostlund, John Hamer, Matt Long, Randy Snyder, and Jake Frost",
-      "Description": "The Healing Power of Mingling Humor with the Philosophies of Men, and Occasionally Some Women: An Interactive Journey Through the Nether Regions of the Mormon Mind, if such a thing actually exists, which we will most likely discuss and probably debate. Live. Maybe. 101. Please bring a smart phone or tablet to participate.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Scott Rowley",
-        "Glenn Ostlund",
-        "John Hamer",
-        "Matt Long",
-        "Randy Snyder",
-        "and Jake Frost"
-      ],
-      "number": "352",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15353",
-      "URL": "http://sunstonemagazine.com/audio/SL15353.mp3",
-      "Title": "Hyper Vigilance In Post Mormon Communities",
-      "Presenters": "John Larsen",
-      "Description": "A common symptom of post traumatic stress disorder is hyper-vigilance. The act of leaving one's faith can cause emotional trauma and sometimes PTSD. In this session, we will discuss how hyper-vigilance in particular is manifest as a characteristic of the communities themselves and how this impacts the individuals and the communities at large.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "John Larsen"
-      ],
-      "number": "353",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15354",
-      "URL": "http://sunstonemagazine.com/audio/SL15354.mp3",
-      "Title": "Mormon As A Child Of War His Ultimate Gift Of Peace And Teaching Peace Through Music In Warzones",
-      "Presenters": "Liz Shropshire",
-      "Description": "Liz Shropshire, founder of the Shropshire Music Foundation, will share the story of how a 3 week volunteer trip to help Kosovo refugees became a life-changing passion to teach war-affected children and teenagers all over the world that violence is not the answer, and that the path of peace is the path to happiness. She will share stories of local teenagers in each country who teach peace through music to the children in their communities. Liz will also discuss the prophet Mormon, himself a child of war, and what he teaches us about forgiveness, love, and the atonement.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Liz Shropshire"
-      ],
-      "number": "354",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15355",
-      "URL": "http://sunstonemagazine.com/audio/SL15355.mp3",
-      "Title": "Transgender And The Restoration A Study In Ethnography Theology And History",
-      "Presenters": "Seth Bryant, Miles Fuller",
-      "Description": "It is difficult to respond to transgender identities from within a Mormon framework since Mormonism imbues gender with eternal significance and often conflates emerging transgender identities with sexual deviance. This presentation will illuminate the lived religion of transgender Restoration members against the backdrop of typical institutional and cultural responses. How do transgender persons generate and contest meaning and identity within the unique cultural-historical-theological matrices of the LDS Church and Community of Christ? How might Restoration churches faithfully respond?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Seth Bryant",
-        "Miles Fuller"
-      ],
-      "number": "355",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15356",
-      "URL": "http://sunstonemagazine.com/audio/SL15356.mp3",
-      "Title": "Out Of The Best Books A Look At Some Important Books And Their Impact On Mormonism",
-      "Presenters": "Curt Bench, Greg Kofford",
-      "Description": "Books have had an enormous influence on the development of Mormon history, theology, and literature. This presentation will discuss some of the most significant of them. The books will come from Mormon history, biography, doctrine, and theology and will include works by sympathetic non-Mormon and anti-Mormon authors.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Curt Bench",
-        "Greg Kofford"
-      ],
-      "number": "356",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15361",
-      "URL": "http://sunstonemagazine.com/audio/SL15361.mp3",
-      "Title": "Leaving The Church But Remaining A Mormon The Rise Of Uncorrelated Mormonism",
-      "Presenters": "Alan Rock Waterman",
-      "Description": "Call them what you will: \"Maverick Mormons\", \"Uncorrelated Mormons\", \"The Remnant\", \"Saints in the Wilderness\", \"Neo - Restorationists\", or even \"LDS Anarchists\" most Saints who find their spiritual nourishment outside the structure of the LDS Church have two common characteristics: 1.) A devotion to Christ and the principles of the Restoration, and 2.) A belief that contemporary Church leaders no longer receive revelation and are therefore spiritually irrelevant to the Church. As their ranks swell, how might these unfaithful faithful affect the future of the Church?",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Alan Rock Waterman"
-      ],
-      "number": "361",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15362",
-      "URL": "http://sunstonemagazine.com/audio/SL15362.mp3",
-      "Title": "Existentialism An Alternative Post Mormon Foundation",
-      "Presenters": "Gary Horlacher, Ernest Horstmanshoff",
-      "Description": "Losing one's belief in Mormonism can lead to a feeling that one has lost the basis for understanding reality. Jean Paul Sartre's philosophy can provide an alternative foundation. This paper introduces his theory of being and compares it with the Mormon paradigm using the questions: \"Who am I ?\" and \"What is the meaning of life?\"",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Gary Horlacher",
-        "Ernest Horstmanshoff"
-      ],
-      "number": "362",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15363",
-      "URL": "http://sunstonemagazine.com/audio/SL15363.mp3",
-      "Title": "Evolutionary Thinking And Why We Are Prone To Believing And Have A Hard Time Leaving A Religion",
-      "Presenters": "Carson Calderwood",
-      "Description": "Mormonism often describes tribalism and communalism as having risen from our spirit instead of our body for the purpose of bringing us into Mormonism and closer to God. This paper argues that these traits actually evolved over time to help the individual view his or her tribe and benevolent activity in it as more desirable than individual selfishness.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Carson Calderwood"
-      ],
-      "number": "363",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15364",
-      "URL": "http://sunstonemagazine.com/audio/SL15364.mp3",
-      "Title": "You Tube Mormonism",
-      "Presenters": "Jake Frost",
-      "Description": "Jake Frost, the creator of the Brother Jake video series, will give an in-depth presentation about his motivations for creating the series, followed by a Q&A.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Jake Frost"
-      ],
-      "number": "364",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15365",
-      "URL": "http://sunstonemagazine.com/audio/SL15365.mp3",
-      "Title": "The Impact Of Infertility On The Mormon Mind",
-      "Presenters": "Tresa Edmunds, Amy Shoemaker Grubbs, Jeff Grubbs, Kristine Miller Anderson",
-      "Description": "In spite of the growing body of literature focusing on medical, psychological, social, and cultural consequences of infertility, its religious and spiritual dimensions have received little attention. This panel will discuss the ways that Mormon doctrines on and culture around family affect the lives of Church members who live with infertility.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Tresa Edmunds",
-        "Amy Shoemaker Grubbs",
-        "Jeff Grubbs",
-        "Kristine Miller Anderson"
-      ],
-      "number": "365",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15366",
-      "URL": "http://sunstonemagazine.com/audio/SL15366.mp3",
-      "Title": "Decolonizing Mormonism",
-      "Presenters": "Gina Colvin, Joanna Brooks",
-      "Description": "Notwithstanding its immense cross-cultural missionary workforce that spans the world, Mormonism still behaves like a white, conservative, American, patriarchal religion, dragging around American cultural trappings, expectations, and processes wherever it goes. Though much has been said about American imperialism, little has been said about American religious imperialism. This presentation makes a case for thinking about American religious imperialism and the pressing need to decolonize Mormonism.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Gina Colvin",
-        "Joanna Brooks"
-      ],
-      "number": "366",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15371",
-      "URL": "http://sunstonemagazine.com/audio/SL15371.mp3",
-      "Title": "The Mormon Legal Mind",
-      "Presenters": "David Read, Denver C. Snuffer, Jr, Bryndis Roberts, Daymon M. Smith",
-      "Description": "Jesus said, \"And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.\" This passage raises a number of questions for Latter-day Saints. Does Jesus oppose lawsuits? If so, why does the LDS Church engage in litigation? Would Jesus encourage his church to structure its mission through numerous legal entities, and to operate with limited liability? What impact does LDS legal corporatism have on Mormon culture? This panel discusses research and analysis of all the Church of Jesus Christ of Latter-day Saint's Utah incorporating documents.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "David Read",
-        "Denver C. Snuffer",
-        "Jr",
-        "Bryndis Roberts",
-        "Daymon M. Smith"
-      ],
-      "number": "371",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15372",
-      "URL": "http://sunstonemagazine.com/audio/SL15372.mp3",
-      "Title": "The Mama Dragons Roundtable",
-      "Presenters": "Diane Oviatt, Brooke Caldwell, Debra Oaks Coe, Jill Hazard Rowe",
-      "Description": "They fought for their children; like dragons did they fight. In 2013 a group of Mormon mothers with LGBT children organized a support group for themselves. One felt that the term \"Mama Bear\" did not come close to describing the ferocious love and fierce protection they felt for their children, so she named the group Mama Dragons. Since then the group has grown significantly and has been featured in a number of news stories, blogs, radio shows, and live interviews. This panel includes several of the Mama Dragons, sharing their individual stories about what inspires the fire they breathe for their children.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Diane Oviatt",
-        "Brooke Caldwell",
-        "Debra Oaks Coe",
-        "Jill Hazard Rowe"
-      ],
-      "number": "372",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15373",
-      "URL": "http://sunstonemagazine.com/audio/SL15373.mp3",
-      "Title": "Resurgent Mormon Feminism Ordain Women The Mormon Gender Issues Survey And Contemporary Lds Women",
-      "Presenters": "Lavina Fielding Anderson, Gary Shepherd, Nadine Hansen, Nancy Ross, Debra E. Jenson, Gina Colvin, and Courtney Rabada",
-      "Description": "In order to analyze recent developments in contemporary Mormon feminism, a number of Mormon feminist writers, scholars, and activists have collaborated in producing Voices for Equality: Ordain Women and Resurgent Mormon Feminism, published by Kofford Books. Contributing authors will speak about Kate Kelly's excommunication; current Ordain Women strategic planning; historical and theological underpinnings of female ordination arguments, a recent, large-scale survey of Mormons' attitudes regarding priesthood ordination; and the long-term ecclesiastical implications for LDS women as a result of new eligibility criteria for sister missionaries.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Lavina Fielding Anderson",
-        "Gary Shepherd",
-        "Nadine Hansen",
-        "Nancy Ross",
-        "Debra E. Jenson",
-        "Gina Colvin",
-        "and Courtney Rabada"
-      ],
-      "number": "373",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15374",
-      "URL": "http://sunstonemagazine.com/audio/SL15374.mp3",
-      "Title": "Mormon Mental Health Association Navigating Sexuality As A Single Mormon",
-      "Presenters": "Natasha Helfer Parker, Kristin Bennion",
-      "Description": "This session will focus on helping single members of the LDS Church normalize the challenges they face from the often rigid messaging and constructs they receive in the current Church. Strategies that are sex-positive and self-affirming will be presented in order to create spaces that allow for healthy boundaries and ownership of individualized sexual decision-making.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Natasha Helfer Parker",
-        "Kristin Bennion"
-      ],
-      "number": "374",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15375",
-      "URL": "http://sunstonemagazine.com/audio/SL15375.mp3",
-      "Title": "Meet The Ex Mormons",
-      "Presenters": "John Dehlin, Kate Kelly, Carson Calderwood, Marisa Calderwood, and Rock Waterman",
-      "Description": "From 2014 - 2015, several prominent Mormons were excommunicated from the LDS church. This panel will discuss their experiences of the last year and how it has affected them.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "John Dehlin",
-        "Kate Kelly",
-        "Carson Calderwood",
-        "Marisa Calderwood",
-        "and Rock Waterman"
-      ],
-      "number": "375",
-      "event": "Salt Lake"
-    },
-    {
-      "Audio": "SL15381",
-      "URL": "http://sunstonemagazine.com/audio/SL15381.mp3",
-      "Title": "Stand Up Comedy Show Sponsored By Mormon Stories",
-      "Presenters": "Chelsea Shields Strayer, Amber Pechin, Landon Bench, Peter Kern, Mike Grover",
-      "Description": "Like to laugh? We do too. This end-of-the-symposium session will feature Mormon comedians showcasing their hilarious talents for the betterment of all. The jokes might be Mormon, but it definitely won't be PG.",
-      "tag": "SL",
-      "year": "2015",
-      "presenters": [
-        "Chelsea Shields Strayer",
-        "Amber Pechin",
-        "Landon Bench",
-        "Peter Kern",
-        "Mike Grover"
-      ],
-      "number": "381",
-      "event": "Salt Lake"
-    }
-  ]
+	"title": "Sunstone Podcast Import",
+	"posts": [{
+		"Audio": "SL16091",
+		"Title": "Smith Pettit Lecture Jesus Christ Marriage And Mormon Christianities",
+		"Presenters": "John G. Turner",
+		"Description": "Marriage has divided Mormons and Christians, and marriage has contributed to divisions among not only Mormons but among many other Christian churches as well. Because marriage occupies such a central place in Mormon history and doctrine, though, changes in marital practices and debates about marriage have proved unusually fraught for Latter-day Saints. Indeed, from scholarly debate about Joseph Smith's marriages to the angst-filled discussions of same-sex relationships today, conflicts about marriage have torn families and institutions asunder. Certain ideas about marriage thrill some, while repelling others. For this outsider, certain moments in the history of Mormon marriage have repelled, while others have proven attractive. Those moments include the practice of plural marriage at the height of the 1856-1857 Mormon reformation, and also Mormon ritual reenactment of Mary's anointing of Jesus.\nConflicts over marriage have often caused individuals, churches, and families to forget the other things that bind them together. Doctrines, histories, and rituals connect \"many Mormonisms,\" just as they connect Mormonism and other branches of Christianity.\n",
+		"URL": "http://sunstonemagazine.com/audio/SL16091.mp3",
+		"sessionId": 91,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["John G. Turner"],
+		"number": "091",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16111",
+		"Title": "Black And White The Challenges Of Colonialism In Mormon Art And Scholarship",
+		"Presenters": "Mica McGriggs, Russel Stevenson, Nancy Ross, Brad Kramer ",
+		"Description": "Depicting ethnic diversity within Mormon art and scholarship often magnifies the religion’s white dominant membership. For example, J. Kirk Richards’ “Eve and the Fruit of the Tree of Knowledge,” which depicts a nude black Eve, drew criticism for presenting an “exoticized” black woman “naked and up for auction.” Since depictions of black Mormons in history, sociology, and art are mostly produced by whites, this panel asks the question, \"To what extent is the black image in Mormonism affected by a white filter?\"",
+		"URL": "http://sunstonemagazine.com/audio/SL16111.mp3",
+		"sessionId": 111,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Mica McGriggs", "Russel Stevenson", "Nancy Ross", "Brad Kramer"],
+		"number": "111",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16112",
+		"Title": "A Crisis Of Perception New Paradigms To Address The Complexities Of Modern Mormonism",
+		"Presenters": "Julie de Azevedo Hanks",
+		"Description": "Mormonism has inherited ways of thinking that are no longer sufficient to understand or address the complexities facing the 21st century Church. Concepts from cybernetics, systems theory, and complex thought will be presented as alternative lenses with which to view and wrestle with the Church’s increased historical transparency, gender concerns, racial diversity, LGBTQIA issues, and member disaffection. It will be argued that movement toward a circular epistemology that promotes awareness of interconnections, allows for complexity, and encourages tolerance for ambiguity will infuse more compassion, hope, and inclusion into our communities and inspire more creative approaches to addressing our current challenges.",
+		"URL": "http://sunstonemagazine.com/audio/SL16112.mp3",
+		"sessionId": 112,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Julie de Azevedo Hanks"],
+		"number": "112",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16121",
+		"Title": "P Words",
+		"Presenters": "Jody England Hansen",
+		"Description": "Starting with Primary, Pioneer, and Polygamy, then Prophet, Priesthood, and Patriarch—and now Pride—P-words have been a strong presence in my life. Like most things, all of it is personal, and none of it is personal. This session will explore some parts of my journey, including a proposal to enter into a polygamist marriage, and how these P-things are similar, and how some of them just don’t belong.",
+		"URL": "http://sunstonemagazine.com/audio/SL16121.mp3",
+		"sessionId": 121,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jody England Hansen"],
+		"number": "121",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16122",
+		"Title": "Liquid Assets",
+		"Presenters": "Mark Thomas, D. Michael Quinn",
+		"Description": "This presentation seeks to quantify the financial impact of climate change on the LDS Church. The LDS Church owns over a billion dollars in real estate in Florida, and continues to buy land and build multi-million dollar buildings there. How much of that is likely to be under water within a few decades due to climate change? This is just the beginning of financial and moral problems that the Church faces from environmental challenges that have so far remained unaddressed.",
+		"URL": "http://sunstonemagazine.com/audio/SL16122.mp3",
+		"sessionId": 122,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Mark Thomas", "D. Michael Quinn"],
+		"number": "122",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16123",
+		"Title": "From Same Sex Marriage To Antidiscrimination Working With The Lds Church On Lgbt Rights",
+		"Presenters": "Clifford Rosky, Troy Williams",
+		"Description": "This panel will discuss the LDS Church's increasing focus on Religious Freedom and the impacts it would have on the LDS Church and society.",
+		"URL": "http://sunstonemagazine.com/audio/SL16123.mp3",
+		"sessionId": 123,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Clifford Rosky", "Troy Williams"],
+		"number": "123",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16124",
+		"Title": "The Beauty Of Mormon Theology William H Chamberlin And Making Mormonism True",
+		"Presenters": "James McLachlan",
+		"Description": "“...our story is so beautiful, that even if it wasn’t true there is no reason that we can’t make it true. God needs willing earthly hands to build Zion, it can’t be built by celestial beings alone.” –William H. Chamberlin\nChamberlin was one of the first Mormons to study philosophy and biblical criticism and was blacklisted from teaching for Church education. The statement that we could make Mormonism true references Mormonism’s doctrine that humans are divine, creative beings, and that the highest form of truth is activity toward the creation of an ethical, just, and loving world.",
+		"URL": "http://sunstonemagazine.com/audio/SL16124.mp3",
+		"sessionId": 124,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["James McLachlan"],
+		"number": "124",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16125",
+		"Title": "My Mormon Culture A Cultural Psychologist S View On Being Mormon And Changing Mormon Minds",
+		"Presenters": "Peter Leavitt",
+		"Description": "Being Mormon means much more than simply believing in a certain set of religious teachings. For many, the unique shared values and norms of “Mormon culture” both interact with and transcend national, ethnic, and other identities. This has important implications for the way Mormons live their faith and deal with challenges to it. Using findings from cultural and social psychology along with a series of personal anecdotes, this presentation aims to shed some light on some of the psychological underpinnings of Mormon culture and what it takes to undergo or cause major change within such a framework.",
+		"URL": "http://sunstonemagazine.com/audio/SL16125.mp3",
+		"sessionId": 125,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Peter Leavitt"],
+		"number": "125",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16126",
+		"Title": "Sex Porn Addiction Model Consistently Fails Lds Members",
+		"Presenters": " Natasha Helfer Parker, Kristin Bennion",
+		"Description": "The “Sex/Porn Addiction” Model, developed in the 1980’s, has promoted therapy and treatment services that are based in arbitrary, moralistic and sex-negative messaging and that do not stand up to academic, evidence-based scrutiny. Proponents claim that individuals become addicted to sexual pleasure or to watching pornography in the same way someone may become chemically dependent to substances. This unfounded claim has spread like wildfire, especially in religiously conservative communities such as ours. Instead of approaching sexual variety as a healthy part of the human experience, this model leverages sexual shame and treats individuals with any unconventional sexual behavior as pathological. This has severe implications in regards to treatment modalities, self-identity, relational processes and an individual’s long-term relationship with their sexuality.",
+		"URL": "http://sunstonemagazine.com/audio/SL16126.mp3",
+		"sessionId": 126,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Natasha Helfer Parker", "Kristin Bennion"],
+		"number": "126",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16131",
+		"Title": "Plural Marriage Our Story",
+		"Presenters": "Edith Barlow, Elise Barlow, Hanna Blackmore, Elsie Blackmore, Dollie Blackmore, Mary Blackmore",
+		"Description": "Several members of the Fundamentalist community in Bountiful, Canada will discuss their experiences with plural marriage and what it means to them.",
+		"URL": "http://sunstonemagazine.com/audio/SL16131.mp3",
+		"sessionId": 131,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Edith Barlow", "Elise Barlow", "Hanna Blackmore", "Elsie Blackmore", "Dollie Blackmore", "Mary Blackmore"],
+		"number": "131",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16132",
+		"Title": "Clothing God",
+		"Presenters": "Carrie McLachlan",
+		"Description": "“When saw we thee... naked, and clothed thee?” Some societies have clothed God as a fierce warrior, a regal king, a father, mother, a shepherd, a lamb, a primal hunter or agricultural being. Each of these clothings reflects a people's vision of the ideal being and offers ways to become more like that being. Julian of Norwich struggled for thirty-years to “re-clothe God” because her revelation of Christ did not match her Catholic version of him. We can learn much from her about how our visions of God can change as we grow “line upon line, precept upon precept.”",
+		"URL": "http://sunstonemagazine.com/audio/SL16132.mp3",
+		"sessionId": 132,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Carrie McLachlan"],
+		"number": "132",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16133",
+		"Title": "Stumbling Blocks And Stepping Stones Including Lesbian Gay Bisexual Transgender And Intersex Children Of God In The Lds Plan Of Salvation",
+		"Presenters": "Duane Jennings",
+		"Description": "The Church’s emphasis on the traditional family, complete with preexistent and post mortal stages as part of the plan of salvation, has received near-canonical status with “The Family: A Proclamation to the World.” But the call to be a Zion community means commitment to “line upon line, precept upon precept” growth and the concept of continuing revelation.\nEighteen years in the making, a newly released book addresses these issues using tools found in the restored gospel, the scriptures, and Joseph Smith’s teachings and shares personal stories and correspondences from Church Leaders to help us reexamine our beliefs and policies.",
+		"URL": "http://sunstonemagazine.com/audio/SL16133.mp3",
+		"sessionId": 133,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Duane Jennings"],
+		"number": "133",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16134",
+		"Title": "Entreat Me Not To Leave Thee Cognitive Dissonance In The Lds Convert",
+		"Presenters": "Kelly Furr",
+		"Description": "Being a convert who experiences cognitive dissonance can feel like Naomi’s invitation for the widowed Ruth to leave and return to a former way of life. However, like Ruth, many converts who doubt still want to stay with their new tribe. This session will use the story of Ruth to explore the experience of converts who feel cognitive dissonance and how they might find a way to stay in the Church.",
+		"URL": "http://sunstonemagazine.com/audio/SL16134.mp3",
+		"sessionId": 134,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Kelly Furr"],
+		"number": "134",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16135",
+		"Title": "Mormon Women Write Life Writing And The Construction Of Mormon Womanhood",
+		"Presenters": "Emily Ward",
+		"Description": "Drawing on their Puritan heritage, early Mormon converts were avid life writers, keeping diaries and journals, writing autobiographies and life sketches, and even producing ward cookbooks. Life writing continues to occupy a significant place in Mormon culture, especially among women. This presentation examines Mormon women’s life writing across time and culture, showing how Mormon women’s understanding of themselves as individuals and as part of God’s kingdom continues to evolve.",
+		"URL": "http://sunstonemagazine.com/audio/SL16135.mp3",
+		"sessionId": 135,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Emily Ward"],
+		"number": "135",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16151",
+		"Title": "Mormons For Agency Reproductive Revolution In The Mormon Context",
+		"Presenters": "Samy Galvez, Emma Tueller Stone, Amanda Farr, Crystal Young-Otterstrom, Mark Barnes, Kara Gaultney, Maxine Hanks, Chelsea Hicken, Alexandra Sandvik",
+		"Description": "Mormons for Agency is a new group that includes Mormons from all walks of life who research, discuss or share their experience and information about LDS views and policies on topics such as reproductive rights, birth control, bodily autonomy, and abortion. M4A seeks an open and public discussion, and advocates for the right of all people to exercise full agency over their own bodies and reproductive choices. This panel will include first-hand abortion stories by Mormon women, address Mormon views and LDS policies on these topics, and discuss how to get involved, share your story, or participate in this important conversation.",
+		"URL": "http://sunstonemagazine.com/audio/SL16151.mp3",
+		"sessionId": 151,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Samy Galvez", "Emma Tueller Stone", "Amanda Farr", "Crystal Young-Otterstrom", "Mark Barnes", "Kara Gaultney", "Maxine Hanks", "Chelsea Hicken", "Alexandra Sandvik"],
+		"number": "151",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16152",
+		"Title": "Love And Gender Equality At Home A Model Of Family Transformation",
+		"Presenters": "Julie de Azevedo Hanks",
+		"Description": "Early relationship patterns lay the framework for our identity development, social interactions, and assumptions about others. If gender equality is to be achieved within Mormon culture and theology it must first be modeled in family relationships. Cultural Transformation Theory provides a framework for moving from a domination model that values “masculine” over “feminine” to a partnership model where relationships are based on connection and equality.",
+		"URL": "http://sunstonemagazine.com/audio/SL16152.mp3",
+		"sessionId": 152,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Julie de Azevedo Hanks"],
+		"number": "152",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16153",
+		"Title": "Faith And Doubt In Contemporary American Mormonism A Quantitative Empirical Perspective",
+		"Presenters": "Dr. Benjamin Knoll",
+		"Description": "Much has recently been made about the intersection of faith and doubt in contemporary American Mormon culture. While discussion of this topic often relies on anecdotes and supposition, this presentation will take a quantitative approach, giving an overview of the 2012 Pew “Mormons in America” survey. Specific topics will include which types of Mormons are more/less likely to express doubt, how doubts affect other religious or social behavior among Mormons, and the role political beliefs play in either driving or mediating doubt.",
+		"URL": "http://sunstonemagazine.com/audio/SL16153.mp3",
+		"sessionId": 153,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Dr. Benjamin Knoll"],
+		"number": "153",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16154",
+		"Title": "Evolution Analysis Of The Facts",
+		"Presenters": "Joe Jensen",
+		"Description": "This presentation approaches the theory of biological evolution not from biological or paleontological perspectives, but from design and engineering perspectives. What do recent discoveries in DNA studies tell us about traditional understandings of evolution? How do they interact with traditional understandings of the fossil record and genetics?",
+		"URL": "http://sunstonemagazine.com/audio/SL16154.mp3",
+		"sessionId": 154,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Joe Jensen"],
+		"number": "154",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16155",
+		"Title": "Mexican Mormon Men Notions For The Analysis Of A Mormon Masculinities",
+		"Presenters": " Alí Siles",
+		"Description": "For over a hundred years, Mormonism has been influencing the lives of thousands of Mexican Men. As part of a research project on the subject, I explore the meanings and practices that Mormon men associate with gender, gender identities and masculinities. I try to reflect on the way these meanings and practices are shaped within their contemporary contexts, and by their religious affiliation. I believe Mormon men are engaging in dialogue with diverse discourses about gender identity and gender relations, and I am trying to elucidate to what extent their masculinities and practices are being reconfigured through this process.",
+		"URL": "http://sunstonemagazine.com/audio/SL16155.mp3",
+		"sessionId": 155,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": [" Alí Siles"],
+		"number": "155",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16161",
+		"Title": "Understanding Sexual Abuse In Mormonism",
+		"Presenters": "Nancy Ross, Lisa Butterworth, Debra Jenson",
+		"Description": "This session will include three presentations on sexual abuse. Debra will examine how the topic is discussed in official LDS Church contexts. Lisa will talk about a new project that will connect survivors of abuse to resources and a new guide that will help survivors' loved ones support those who have been abused. Nancy will talk about social media responses to the LDS Church's claim that it is the gold standard for handling cases of child abuse.",
+		"URL": "http://sunstonemagazine.com/audio/SL16161.mp3",
+		"sessionId": 161,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Nancy Ross", "Lisa Butterworth", "Debra Jenson"],
+		"number": "161",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16162",
+		"Title": "Continuing Along The Divergent Paths Of The Restoration",
+		"Presenters": "Steven L. Shields",
+		"Description": "Forty years ago, the first edition of Divergent Paths of the Restoration was published. It has been updated several times with the 5th recently completed and awaiting publication. This presentation will give insights into the challenges of keeping track of a movement that continues to expand, becoming more diverse in its expressions. What are the challenges of categorizing these expressions? Are they denominations, groups, ministries? The historical roots of divergencies in the Latter Day Saint movement and examples of current expressions will be shared.",
+		"URL": "http://sunstonemagazine.com/audio/SL16162.mp3",
+		"sessionId": 162,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Steven L. Shields"],
+		"number": "162",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16163",
+		"Title": "This Session Has Been Cancelled",
+		"Presenters": "Christopher Bradford",
+		"Description": "Prophetic vision has been associated with a call to build a just world with an eye to a future Zion. With the exponential rate of technological change and its attendant socioeconomic implications, there is a great need for us to raise the prophetic voice in society. The roots of Mormonism are a fruitful source for inspiration to address some of the imminent changes in society. In this presentation, I will draw on Mormon teachings and early Mormon social experiments for their relevance to our near future.",
+		"URL": "http://sunstonemagazine.com/audio/SL16163.mp3",
+		"sessionId": 163,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Christopher Bradford"],
+		"number": "163",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16164",
+		"Title": "From Exclusion To Acceptance The Task Of God S People In All Dispensations",
+		"Presenters": "Lisa Hansen",
+		"Description": "Chosen people have always excluded groups distinctly different from the then-current perspectives of who is acceptable to God: the physically imperfect during the time of the second temple; non-Jews during both Old Testament and New Testament times (a prejudice maintained by Christ's followers until Peter's vision); people who have been divorced; people who have used any form of birth control; and, up until forty years ago, people with any black ancestry. This presentation focuses on how our understanding of God and what kind of people God views as profane has developed over time. How might it still be changing today?",
+		"URL": "http://sunstonemagazine.com/audio/SL16164.mp3",
+		"sessionId": 164,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Lisa Hansen"],
+		"number": "164",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16165",
+		"Title": "A Foot In Two Camps The Lds Church And Rulon Allred S Polygamous Sect",
+		"Presenters": "Marilyn Bushman-Carlton, Connie Sadler",
+		"Description": "While waiting for a Mormon missionary, Connie Saddler was lured into a polygamous group where she lived for fourteen years, raising four children. Though she lived among and associated with sect members, she also attended her LDS ward. Like polygamous leader Rulon Allred, she believed in both religions.",
+		"URL": "http://sunstonemagazine.com/audio/SL16165.mp3",
+		"sessionId": 165,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Marilyn Bushman-Carlton", "Connie Sadler"],
+		"number": "165",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16166",
+		"Title": "Mama Dragon Story Project",
+		"Presenters": "Kimberly Anderson",
+		"Description": "A message of unconditional love is the cause the Mama Dragons fight for. They seek to protect and defend their LGBT+ children against the onslaught of dogma inflicted by both religion and society. \n\nThe Mama Dragons are predominantly Mormon or have a Mormon background, but the group does not limit itself to members of a particular faith; all are welcome, including those who have abandoned organized religion altogether. Part of a larger ethos in the religious community of mothers loving their LGBT+ children, the Mama Dragons message meshes seamlessly with many other faith communities across the world.",
+		"URL": "http://sunstonemagazine.com/audio/SL16166.mp3",
+		"sessionId": 166,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Kimberly Anderson"],
+		"number": "166",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16171",
+		"Title": "Play Reading Burn By Morag Shepherd",
+		"Presenters": "Elizabeth Golden, Olivia Custudio, Aaron Kramer, Shawn Saunders, Merry Magee, McKenzie Steel Foster",
+		"Description": "BURN is the story of a young Mormon mother working through a crisis of faith manifesting itself through an allergy to the sun. This is a new work by Morag Shepherd being produced this fall in Salt Lake City. Morag is the 2015 recipient of the a grant from the David Ross Fetzer Foundation for Emerging Artists and has a play in development at Plan-B Theatre Company for their 2017 season. Her play POPPY'S IN THE SAND premiered at the 2015 Great Salt Lake Fringe Festival, and then played at the San Diego International Fringe Festival in June 2016.",
+		"URL": "http://sunstonemagazine.com/audio/SL16171.mp3",
+		"sessionId": 171,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Elizabeth Golden", "Olivia Custudio", "Aaron Kramer", "Shawn Saunders", "Merry Magee", "McKenzie Steel Foster"],
+		"number": "171",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16172",
+		"Title": "Moving Past Black And White Thinking About God Religion And Mormonism",
+		"Presenters": "Dan Wotherspoon, John Hatch, Jody England Hansen",
+		"Description": "One of the most difficult tasks in a faith journey is to enter into complexity, to be willing and able to move from clean, simple views of truth, history, and knowledge into more uncertain and uncharted territories—all with the hope (but no guarantee) that we’ll find something in which to center ourselves. Panelists will present stories of their owns journeys and offer insights they've gleaned along the way.",
+		"URL": "http://sunstonemagazine.com/audio/SL16172.mp3",
+		"sessionId": 172,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Dan Wotherspoon", "John Hatch", "Jody England Hansen"],
+		"number": "172",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16173",
+		"Title": "The Mormon Church In The Spanish Speaking World",
+		"Presenters": "Manuel Saine",
+		"Description": "The LDS Church in Latin America is a different animal from its United States counterpart—especially Utah's church. This session presents 10-minute videos of people who, until recently, were members of the Church in Spain, Colombia, Peru, and El Salvador. The stories showcase the influence of the Church, the attitudes and practices of its members, and, whenever possible, a brief statistical report. Manuel will introduce the session and speak briefly on his experience with the church in Argentina, his native country, and in Chile, where he served his mission.",
+		"URL": "http://sunstonemagazine.com/audio/SL16173.mp3",
+		"sessionId": 173,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Manuel Saine"],
+		"number": "173",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16174",
+		"Title": "Claiming The Mormon In Ex Mormon Reimagining Cultural Identity And Loss",
+		"Presenters": "Jennifer Huss Basquiat, Analyn Gourley, Heather Buzbee, Emily Fay Urban",
+		"Description": "Mormonism is more than religion, it is a cultural identity that encompasses nearly every aspect of an individual’s life. It can be a dazzling experience to be a willing part of the fold. However, if you choose to leave, what happens to your identity? Can you remain an “ethnic Mormon” even after your faith subsides? Are you still rooted in the tradition you elected to leave? This panel, consisting of former Mormons, would answer a resounding “Yes!” to these questions. Their Mormon-ness does not cease simply because they are no longer members of record.",
+		"URL": "http://sunstonemagazine.com/audio/SL16174.mp3",
+		"sessionId": 174,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jennifer Huss Basquiat", "Analyn Gourley", "Heather Buzbee", "Emily Fay Urban"],
+		"number": "174",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16175",
+		"Title": "Neurodiversity And Mormonism",
+		"Presenters": "Luna Lindsey, Sarah Adia Heuser, Natasha Smith",
+		"Description": "The autistic community is often overlooked within Mormonism. As numbers of diagnosed and self-diagnosed autists continue to increase throughout society, the number of Mormon autists will also increase. How can non-autists (allists) better understand autism? In what ways do autists benefit from Mormonism and in what ways do we contribute? How do we struggle? How can Mormons and the progressive Mormon community be more inclusive? This panel will consist of autistic Mormons. Come with an open heart, ready to explore this topic from a neurodiversity perspective.",
+		"URL": "http://sunstonemagazine.com/audio/SL16175.mp3",
+		"sessionId": 175,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Luna Lindsey", "Sarah Adia Heuser", "Natasha Smith"],
+		"number": "175",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16176",
+		"Title": "Religion Discrimination And Growing Up Flds",
+		"Presenters": "Andrew Chatwin, Brenda Nicholson",
+		"Description": "As an outsider to both the FLDS faith and LDS faith, Chatwin has felt the painful edge of discrimination from all sides who misunderstand the complicated life of standing up for victims of Warren Jeffs, as well as growing up in a polygamist family. Following Chatwin's remarks, Brenda Nicholson will share her experience.",
+		"URL": "http://sunstonemagazine.com/audio/SL16176.mp3",
+		"sessionId": 176,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Andrew Chatwin", "Brenda Nicholson"],
+		"number": "176",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16191",
+		"Title": "Broadcast Q A With Reza Aslan Judith Freeman Memories Of A Mormon Girlhood",
+		"Presenters": "Judith Freeman, Reza Aslan",
+		"Description": "Join Sunstone for a unique plenary session, featuring two highly acclaimed authors. There will be a 35 minute Q&A with Reza Aslan, broadcasting from his home in California. He will be discussing religious reform and fundamentalism. After his broadcast Q&A, Judith Freeman wil ltalk about her latest memoir, \"The Latter Days,\" followed by a Q&A.",
+		"URL": "http://sunstonemagazine.com/audio/SL16191.mp3",
+		"sessionId": 191,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Judith Freeman", "Reza Aslan"],
+		"number": "191",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16201",
+		"Title": "The Gospel According To Sunstone Devotional 2016",
+		"Presenters": "Jody England Hansen",
+		"Description": "This devotional is about heartbreaking and healing personal conversations I've had with culturally conservative or newly liberal Church members, leaders, Mama Dragons, and LGBT+ loved ones about the November policy. I've encountered questions, conflict, and pain. It seems the November policy is another reason to either be more sure of what you were already certain of, or a deeper, more urgent need to keep asking, and reaching. Through it all, I am looking for the truth and the life. I am seeking again for the good news of the Gospel, or gospel, however big the “G” needs to be.",
+		"URL": "http://sunstonemagazine.com/audio/SL16201.mp3",
+		"sessionId": 201,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jody England Hansen"],
+		"number": "201",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16211",
+		"Title": "Mormon Mental Health Leaving Plato S Cave Understanding And Transcending Our Objectification Of Others",
+		"Presenters": "John M. Rector",
+		"Description": "Rather than offering a narrow definition of objectification, this presentation explores it as a spectrum of misapprehension running from its mildest form (casual indifference) to its most extreme manifestation, (dehumanization). Gleaning insights from classic philosophy, the world's five most prominent religious traditions, and current social science research, the presentation examines the best antidotes humankind has devised thus far to move us from casual concern for our fellow human beings toward interconnectedness and, ultimately, unity consciousness.",
+		"URL": "http://sunstonemagazine.com/audio/SL16211.mp3",
+		"sessionId": 211,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["John M. Rector"],
+		"number": "211",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16212",
+		"Title": "The American Church Through Other Eyes",
+		"Presenters": "Gina Colvin, Nathan McCluskey",
+		"Description": "The LDS Church exerts considerable cultural influence in its international congregations. The term ‘gospel culture’ has been used by LDS leadership as a directive to replace local cultural understandings of the gospel of Jesus Christ with American LDS interpretations of it. What kinds of risks does this directive cultivate? What kinds of resistance does it meet? How does the mostly American LDS Church leadership function in places far from the Church's center?",
+		"URL": "http://sunstonemagazine.com/audio/SL16212.mp3",
+		"sessionId": 212,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Gina Colvin", "Nathan McCluskey"],
+		"number": "212",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16213",
+		"Title": "Doing Mormonism",
+		"Presenters": "Tyler Chadwick",
+		"Description": "Community identification is performative. It’s a matter of putting on the discursive practices—the ideas, beliefs, attitudes, knowledge, roles, etc.—that constitute the community’s being-in-the-world. Social scientists have called this \"doing\" identity. This presentation explores what it means to \"do\" Mormonism, to put on a Mormon identity, especially through speech acts and literary texts.",
+		"URL": "http://sunstonemagazine.com/audio/SL16213.mp3",
+		"sessionId": 213,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Tyler Chadwick"],
+		"number": "213",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16214",
+		"Title": "Going On Mormon Sabbatical And Following The Footsteps Of Counter Culture Bad Ass Jesus",
+		"Presenters": "Doree Burt",
+		"Description": "After I spoke out against November's exclusion policy, my church calling was revoked and temple recommend taken, both against my wishes. So I decided to take a sabbatical from the Church. I will share my observations from this sabatical, including my weekly purposeful worship (going to other services, volunteering, communing with nature, etc.), a monthly \"tithing,\" visiting teaching by inspiration, and seeking enrichment.",
+		"URL": "http://sunstonemagazine.com/audio/SL16214.mp3",
+		"sessionId": 214,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Doree Burt"],
+		"number": "214",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16215",
+		"Title": "By The Power Of The Spirit Martin Harris In The Mormon Movement",
+		"Presenters": "H. Michael Marquardt",
+		"Description": "Martin Harris, who was baptized on April 6, 1830 in Manchester, New York, was associated with the early church in New York and Kirtland, Ohio. Though he initially followed Joseph Smith Jr., he eventually split with him and followed other Mormon offshoot leaders such as David Whitmer, James J. Strang, Gladden Bishop, and William Smith. Though considering Brigham Young to be an apostate, Harris journeyed to Utah Territory toward the end of his life where he was rebaptized and lived until his death. Harris never denied his religious experiences in the Mormon movement.",
+		"URL": "http://sunstonemagazine.com/audio/SL16215.mp3",
+		"sessionId": 215,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["H. Michael Marquardt"],
+		"number": "215",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16216",
+		"Title": "Love One Another A Panel On Mormon Families And Congregations Experiencing A Crisis Of Faith",
+		"Presenters": "Robert A. Rees, Robert S. Rees, Natasha Helfer Parker, Thomas McConkie, Kristy Money",
+		"Description": "Many Latter-day Saint families and congregations experience conflict and even division when one or more members experience a crisis of faith or actually separate from the faith. The authors of a new approach for helping families negotiate this challenging territory discuss the reality of family divisions over faith and offer helpful strategies based on love and understanding designed to keep families together in spite of differences over faith.",
+		"URL": "http://sunstonemagazine.com/audio/SL16216.mp3",
+		"sessionId": 216,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Robert A. Rees", "Robert S. Rees", "Natasha Helfer Parker", "Thomas McConkie", "Kristy Money"],
+		"number": "216",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16221",
+		"Title": "Being Both Mormon And Mason Faith Enhancement Through Association In Two Traditions",
+		"Presenters": "Boyd Jay Petersen, Patrick C McCleary, Lorenzo E. (Lon) Tibbitts, Joe Steve Swick III",
+		"Description": "This panel of four Latter-day Saints who are also Freemasons explores how association with two different traditions has enriched their spiritual lives. The relationship between Mormonism and Freemasonry has historically been a tense one, and the LDS Church implied that it should be able to serve all spiritual and social needs, so how did these people overcome their qualms about joining Freemasonry? How do their LDS backgrounds affect their Masonic experiences? And, even more important, what is it about the rituals, teachings, and social life of Freemasonry that enhances their LDS spiritual life?",
+		"URL": "http://sunstonemagazine.com/audio/SL16221.mp3",
+		"sessionId": 221,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Boyd Jay Petersen", "Patrick C McCleary", "Lorenzo E. (Lon) Tibbitts", "Joe Steve Swick III"],
+		"number": "221",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16222",
+		"Title": "Ex Mormons Online How Internet Communities Fuel The Exodus And Aid Faith Transition And Recovery",
+		"Presenters": "Luna Lindsey",
+		"Description": "With growing access to the Internet, tens of thousands of Mormons are uncovering uncomfortable facts leading to a painful crisis of faith that can trigger phobias and internalized shame; cause them to be shunned by family and community; and destablize their identity, sense of reality, and moral framework. With so few professionals to guide them, many of these destablized Mormons find support and validation in online communities. Learn how these communities have unwittingly become support groups.",
+		"URL": "http://sunstonemagazine.com/audio/SL16222.mp3",
+		"sessionId": 222,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Luna Lindsey"],
+		"number": "222",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16223",
+		"Title": "A Seer Is Greater Than A Prophet Empowering Mormon Mystics",
+		"Presenters": "Michael Adam Ferguson",
+		"Description": "Mysticism pertains to the discourse beyond discourse. It is a style of attending to events, and an experiential aesthetic. In this session, we discuss a theology of mysticism in the context of the Restoration movement by examining the spiritual gift of seership. The Restoration’s centrally-defining text—The Book of Mormon—asserts seership as a gift second only to the power of God. We explore the history of seership in Western and Eastern civilizations, and hear from Mormon mystics who will share examples of their own personal visions.",
+		"URL": "http://sunstonemagazine.com/audio/SL16223.mp3",
+		"sessionId": 223,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Michael Adam Ferguson"],
+		"number": "223",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16224",
+		"Title": "Transitioning Lds Church History Toward Mormon Latino History",
+		"Presenters": "Fernando R. Gomez",
+		"Description": "Over the last twenty-five years the Museum of Mormon History of the Americas has dedicated time and resources to documenting, preserving and exhibiting Mexican Mormon history. This has led to the establishment of the Museum of the History of Mormonism in Mexico in Provo, a private, non-profit institution. Come learn about the history and offerings of this unique museum.",
+		"URL": "http://sunstonemagazine.com/audio/SL16224.mp3",
+		"sessionId": 224,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Fernando R. Gomez"],
+		"number": "224",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16225",
+		"Title": "Free Byu A Conversation About Religious Freedom Among The Cougars",
+		"Presenters": "Caleb Chamberlain, Muriel McGregor",
+		"Description": "Though the LDS Church religious freedom a watchword for the past few years, little of that freedom can be found at Brigham Young University. Students who question the faith too far can face expulsion from the school. To combat this unfair treatment, former students and allies founded FreeBYU, an organization dedicated to promoting freedom of thought and religion at BYU.  Specifically, FreeBYU asks that the school's honor code be updated to allow LDS students to change their personal religious beliefs without being expelled from the University and evicted from their housing.",
+		"URL": "http://sunstonemagazine.com/audio/SL16225.mp3",
+		"sessionId": 225,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Caleb Chamberlain", "Muriel McGregor"],
+		"number": "225",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16226",
+		"Title": "John Burton Slave Of Parowan Utah 1797 1865",
+		"Presenters": "Melvin C. Johnson",
+		"Description": "John Burton (1797–1865) was born to slave parents, and eventually joined the Mormon Church. Burton’s Mormonism transcended race, bondage, culture, and geography as he journeyed west with several owners from Virginia, Kentucky, Missouri, Illinois, and frontier Utah. He was one of the three African Americans in Brigham Young's 1847 company to Utah and remained in Great Salt Lake City afterward. Burton’s life and times challenge traditional Mormon conceptions of religious community, racism, and paternalism.",
+		"URL": "http://sunstonemagazine.com/audio/SL16226.mp3",
+		"sessionId": 226,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Melvin C. Johnson"],
+		"number": "226",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16227",
+		"Title": "Human Trafficking In Zion",
+		"Presenters": "Steven Fales",
+		"Description": "Fifteen years ago, for nine months, Steven Fales turned to sex work in New York City in order to pay child support. Using personal stories from this time and data from organizations such as Truckers Against Trafficking, Fales will show how Mormons remain mostly ignorant of human trafficking in Zion, and what we can do to stop it.",
+		"URL": "http://sunstonemagazine.com/audio/SL16227.mp3",
+		"sessionId": 227,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Steven Fales"],
+		"number": "227",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16228",
+		"Title": "Where We Stand Ordain Women Documentary",
+		"Presenters": "Kristine Stolakis, Kate Kelly, Abby Hansen",
+		"Description": "Where We Stand is a documentary film about a controversial group of Mormon feminists fighting for women’s ordination in The Church of Jesus Christ of Latter-day Saints. The film follows Abby Hansen, a stay-at-home mom turned vocal advocate for Ordain Women as she navigates the repercussions of her unpopular activism against her church in her predominantly Mormon suburb. The film is also the coming-of-age story of Ordain Women as an organization itself—from a humble website to an internationally recognized activist group.",
+		"URL": "http://sunstonemagazine.com/audio/SL16228.mp3",
+		"sessionId": 228,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Kristine Stolakis", "Kate Kelly", "Abby Hansen"],
+		"number": "228",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16231",
+		"Title": "Latinidad Afro Latinidad And Mormon Activism Open Borders As A Spiritual Imperitave",
+		"Presenters": "Agustin \"Tino\" Diaz, Laura Lopez, Azul Uribe",
+		"Description": "Members of #TogetherWithoutBorders call out racist and nativist elements in Mormon discourse, and seek a voice and representation in Mormon white progressive activist community. All the while, remaining active members of the faith. Individuals in this organization will share how they perform and frame their activism as people of color with a new kind of liberation theology that racializes and broadens their work within their community and in activist circles outside of it.",
+		"URL": "http://sunstonemagazine.com/audio/SL16231.mp3",
+		"sessionId": 231,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Agustin \"Tino\" Diaz", "Laura Lopez", "Azul Uribe"],
+		"number": "231",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16232",
+		"Title": "The Policy In Context Of Mormon Thought On Cursed Lineage And Marriage",
+		"Presenters": "Clair Barrus, Newell G. Bringhurst",
+		"Description": "Early Mormon views on marriage, race, and progeny provide a background to consider the church’s new policy banning gay families from church membership. Brigham Young taught that interracial marriage of white Mormon men to black women would bring a curse upon the church, reducing the Mormon people below the descendants of Cain, and recommended execution to these families. 19th century teachings on race and marriage provide a context to the concepts of a cursed people and unholy marriage. In this paper, I will explore teachings of the past that parallel today’s policy.",
+		"URL": "http://sunstonemagazine.com/audio/SL16232.mp3",
+		"sessionId": 232,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Clair Barrus", "Newell G. Bringhurst"],
+		"number": "232",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16233",
+		"Title": "The Plat Of Zion A Comparison With American Ideal Cities",
+		"Presenters": "Bill Speer",
+		"Description": "The Ideal City has its origins in Renaissance ideas which drew upon more ancient ideas. Mormon authors have not generally talked upon the Plat of Zion beyond recognizing it as an example of an ideal city. This study compares the Plat of Zion with other examples of American Ideal Cities, specifically Philadelphia (Penn’s Holy Experiment) and Savannah (the Oglethorpe Plan). Each is found to have its basis in its founder’s philosophical/theological principles, which include in some sense communitarianism, utopianism, or societal equality, as well as being laid out in a grid pattern.",
+		"URL": "http://sunstonemagazine.com/audio/SL16233.mp3",
+		"sessionId": 233,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Bill Speer"],
+		"number": "233",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16234",
+		"Title": "Restoration Is A Personal Journey",
+		"Presenters": "Sally E. Firmage",
+		"Description": "We are each endowed by our Creator with an innate ability to communicate, to receive guidance, and assurance that we are safe, loved and equal in the eyes of God. We \"fall\" when we forget about this endowment. Restoration is the process of remembering the truths we lost in this fall. I will tell about my own journey through a fall and restoration, including leaving the LDS faith in my 20's, and coming out late in life as bisexual. Through this journey, I have gained a far greater understanding and respect for my Mormon heritage.",
+		"URL": "http://sunstonemagazine.com/audio/SL16234.mp3",
+		"sessionId": 234,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Sally E. Firmage"],
+		"number": "234",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16235",
+		"Title": "Polygamy In America Legalization Conducive Cultural Demographic Trends Libertarian Ruminations",
+		"Presenters": "George R. Compton",
+		"Description": "Given recent reformulations of what constitutes an acceptable marriage relationship, polygamy is probably the next dominant Western family-law battleground. Recent cultural trends leading towards the legalization of polygamy (which are quite different from those that led to gay marriage) are rendering traditional arguments against polygamy to be less persuasive than they once were. Fundamental questions are before us regarding the role of law in protecting the innocent but limiting personal freedom and even standing in the way of potentially salubrious outcomes.",
+		"URL": "http://sunstonemagazine.com/audio/SL16235.mp3",
+		"sessionId": 235,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["George R. Compton"],
+		"number": "235",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16236",
+		"Title": "Borderlands Creating An Lds Compatible Religious Model For Yourself",
+		"Presenters": "D. Jeff Burton, Stephen Carter",
+		"Description": "Troubled members who want to remain a part of the Mormon experience find that creating a personal religion compatible with the LDS model and acceptable to their family can be very useful and comforting. When developing a compatible/acceptable personal religion, we must carefully select attitudes, beliefs, behaviors, and elements of faith that help us meet these goals. This session will explore how to construct a personal religion that works, provide examples of personal religious elements that can be included, and share experiences of some who have developed personal religions.",
+		"URL": "http://sunstonemagazine.com/audio/SL16236.mp3",
+		"sessionId": 236,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["D. Jeff Burton", "Stephen Carter"],
+		"number": "236",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16237",
+		"Title": "Eivai Mormonosi The Greeks And The Mormons In Early 20 Th Century Utah",
+		"Presenters": "Katherine Kelaidis",
+		"Description": "During the early twentieth century, thousands of Greeks poured into Utah to work in its mines and on its railroads. Many of these new migrants came from regions still controlled by the Ottoman Empire. This presentation will examine the relationship between those Greek immigrants and their Mormon neighborhoods. In particular, we will explore intermarriages and religious conversions through the lens of each group's19th-century history.",
+		"URL": "http://sunstonemagazine.com/audio/SL16237.mp3",
+		"sessionId": 237,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Katherine Kelaidis"],
+		"number": "237",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16238",
+		"Title": "Navigating Complex Relationships Non Monogamy And Marriage",
+		"Presenters": "Natasha Helfer Parker",
+		"Description": "Many aspects of being in a non-monogamous, poly, or open relationship are actually similar to those of being in a monogamous relationship. There are also some notable differences. This presentation will cover a few of the unique challenges of non-monogamy and how to cope with them.",
+		"URL": "http://sunstonemagazine.com/audio/SL16238.mp3",
+		"sessionId": 238,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Natasha Helfer Parker"],
+		"number": "238",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16242",
+		"Title": "Brother Jake Does Sunstone",
+		"Presenters": "Jake Frost",
+		"Description": "Join Jake for a lunchtime viewing of some Brother Jake classics, the world premier of his latest video, and a bit of Q&A.",
+		"URL": "http://sunstonemagazine.com/audio/SL16242.mp3",
+		"sessionId": 242,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jake Frost"],
+		"number": "242",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16251",
+		"Title": "Why We Stay",
+		"Presenters": "Dan Wotherspoon, Sydnie Cazier Olsen, Bill Reel, Eric Samuelsen, Jerri A. Harwell",
+		"Description": "This perennially well-received session features the stories of those who have chosen to remain active, dedicated Latter-day Saints even in the face of challenges to traditional faith.",
+		"URL": "http://sunstonemagazine.com/audio/SL16251.mp3",
+		"sessionId": 251,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Dan Wotherspoon", "Sydnie Cazier Olsen", "Bill Reel", "Eric Samuelsen", "Jerri A. Harwell"],
+		"number": "251",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16252",
+		"Title": "Adam And Eve The Series",
+		"Presenters": "Davey Morrison Dillard, Bianca Morrison Dillard",
+		"Description": "Picking up twenty minutes after they've been kicked out of Eden, Adam and Eve follows the courtship of the first man and first woman in the world—out on their own for the first time, fending for themselves, figuring things out, and making their first fumbling forays into romance. They've been tasked with populating the earth—but he's more enthusiastic about the idea than she is. It's a typical coming-of-age story. Only this time the future of the human race is at stake.",
+		"URL": "http://sunstonemagazine.com/audio/SL16252.mp3",
+		"sessionId": 252,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Davey Morrison Dillard", "Bianca Morrison Dillard"],
+		"number": "252",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16261",
+		"Title": "Roots Of The Mormon Family Tree",
+		"Presenters": "Winston Blackmore",
+		"Description": "Although there are many branches of Mormonism, perhaps we have more in common than we realize. What are the diffferences between Mormon Fundamentalist beliefs and LDS beliefs? What are the similarities? Where do the roots of tree branch out and where do they begin?",
+		"URL": "http://sunstonemagazine.com/audio/SL16261.mp3",
+		"sessionId": 261,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Winston Blackmore"],
+		"number": "261",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16262",
+		"Title": "The Throne Near Kolob A Portrait Of Power",
+		"Presenters": "Mark Thomas, Maxine Hanks",
+		"Description": "There are few images that have endured as long in western religion as that of a powerful god upon a throne. Though kings are scarce these days, and thrones difficult to find, the popularity of the Game of Thrones television series indicates that the archaic image still holds sway in the modern psyche. This throne image appears frequently in the Mormonism—in the Book of Mormon, the vision of the three degrees of glory, and in prayers that dedicate temples. By examining the Mormon Throne near Kolob, we will find the underlying assumptions of power-brokering in Mormonism.",
+		"URL": "http://sunstonemagazine.com/audio/SL16262.mp3",
+		"sessionId": 262,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Mark Thomas", "Maxine Hanks"],
+		"number": "262",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16263",
+		"Title": "Mormon Mental Health Association Mormon Thinking Errors",
+		"Presenters": "Jennifer White, Natasha Helfer Parker",
+		"Description": "Cognitive distortions, or thinking errors, cause individuals to perceive reality inaccurately, producing and reinforcing negative thoughts and emotions. All individuals, families, and cultures perpetuate distorted thinking patterns, including Mormonism. This session will look at common Mormon thinking errors and offer remedies for them including examining beliefs and self-talk, correcting inaccurate thought patterns, and expanding clear awareness of thoughts. These can significantly improve self-image, communication, relationships, success, and happiness.",
+		"URL": "http://sunstonemagazine.com/audio/SL16263.mp3",
+		"sessionId": 263,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jennifer White", "Natasha Helfer Parker"],
+		"number": "263",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16264",
+		"Title": "Should Mormons Be Vegan",
+		"Presenters": "Devin Rasmussen, Chris Foster",
+		"Description": "Mormonism once strongly advocated against harming animals unnecessarily. Both prophets and scriptures have put restrictions the use of animals for food. During this time of nutritional abundance where the use of animal products is no longer necessary, it is time for Mormons to get back to their doctrinal roots and end the exploitation of animals.",
+		"URL": "http://sunstonemagazine.com/audio/SL16264.mp3",
+		"sessionId": 264,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Devin Rasmussen", "Chris Foster"],
+		"number": "264",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16265",
+		"Title": "The Evolution Of The Doctrine And Covenants Text A Preliminary And Exploratory Study",
+		"Presenters": "Bill Speer",
+		"Description": "This study uses methodologies developed in the biological sciences to evaluate the development of the D&C printed text. Phylogenetic patterns of a small number of individual sections common in both RLDS/COC and LDS editions will be analyzed. Insights and comparisons between these two textual groups will be presented. These two groups will be distinguished from early 19th century editions, from which they are both descended.",
+		"URL": "http://sunstonemagazine.com/audio/SL16265.mp3",
+		"sessionId": 265,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Bill Speer"],
+		"number": "265",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16266",
+		"Title": "Wearing Purple Pants To Church Mormon Feminist Activism In A Global Religion",
+		"Presenters": "Alison Halford",
+		"Description": "Campaigns like ‘Wear Pants to Church’ has raised the profile of Mormon feminist movements, but is it, as Claudia Bushman contends, ‘too American to sway an international church’? This presentation will discuss how a global Mormon feminist movement is being stymied by an interdependency and cultural exclusivity between Mormon feminism and American exceptionalism. As a result, British Mormon women who wish to challenge unequal practices and doctrine are being reduced to a footnote within Mormon feminism.",
+		"URL": "http://sunstonemagazine.com/audio/SL16266.mp3",
+		"sessionId": 266,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Alison Halford"],
+		"number": "266",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16267",
+		"Title": "Why Usa Christians In 2016 Should Vote Democratic",
+		"Presenters": "William D. Russell",
+		"Description": "Christians, including Mormons, should consider moral and ethical issues when deciding whom to support in an election. The teachings of Jesus in the four gospels should be an important guide in considering the issues raised in a campaign. This paper will argue that in the 2016 preseidential election, the moral issues lean strongly on the side of the Democrats.",
+		"URL": "http://sunstonemagazine.com/audio/SL16267.mp3",
+		"sessionId": 267,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["William D. Russell"],
+		"number": "267",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16271",
+		"Title": "Was There An Original",
+		"Presenters": "Denver C. Snuffer",
+		"Description": "Although every splinter since the death of Joseph and Hyrum Smith claimed or claims to be the authentic version of Mormonism, the real question is whether there was \"an original.\" From the First Vision until June 27, 1844 Mormonism constantly changed. It was still a work-in-process at Joseph's death. Even the design for the Nauvoo Temple, like the temple itself, remained unfinished. Brigham Young felt at liberty to complete both as he imagined they ought to be completed. This presentation will discuss whether there was an \"original,” and what it did and did not include.",
+		"URL": "http://sunstonemagazine.com/audio/SL16271.mp3",
+		"sessionId": 271,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Denver C. Snuffer"],
+		"number": "271",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16272",
+		"Title": "Does The Lds Church Do More Harm Or More Good",
+		"Presenters": "Stephen Cranney, John Dehlin, Mica McGriggs, Ryan T. Cragun",
+		"Description": "Joseph Smith famously said the word “Mormon” means “more good.” Does the Mormon Church live up to its name? Or does it do more harm than good? In a lively but friendly debate, four social scientists will offer competing perspectives rooted in research and data. For the sake of discussion, the panel will bracket eternal life and focus on the measurable social harms and benefits of Mormon fellowship and practice.",
+		"URL": "http://sunstonemagazine.com/audio/SL16272.mp3",
+		"sessionId": 272,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Stephen Cranney", "John Dehlin", "Mica McGriggs", "Ryan T. Cragun"],
+		"number": "272",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16273",
+		"Title": "Mother In Heaven",
+		"Presenters": "Nancy Ross, Donna Kelly, Sara Carruth Erickson",
+		"Description": "In October 2015 the Church released its essay “Mother in Heaven.” This panel will explore the implications of Mormon belief in a Heavenly Mother, including the way it affects women’s equality on earth and in the church.",
+		"URL": "http://sunstonemagazine.com/audio/SL16273.mp3",
+		"sessionId": 273,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Nancy Ross", "Donna Kelly", "Sara Carruth Erickson"],
+		"number": "273",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16274",
+		"Title": "The Transcendent Power Of The Between",
+		"Presenters": "Thomas McConkie, Gina Colvin",
+		"Description": "Susan Rothbaum (1988) argues that church leavetakers ‘have a foot in each world, but are at home in neither… this experience of being “between two worlds” can be both depressing and elating, painful and productive.’ Thomas McConkie and Gina Colvin will explore this space “between two worlds” where new identities, attachments, and ways of understanding the self, God, and the world are worked out. They will explore the productivity of the liminal space and provide a theoretical framework from which to apprehend spiritual transitions as fruitful, grounding, and personally and socially transformative.",
+		"URL": "http://sunstonemagazine.com/audio/SL16274.mp3",
+		"sessionId": 274,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Thomas McConkie", "Gina Colvin"],
+		"number": "274",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16275",
+		"Title": "Holding Our History Reflections On Mormon Feminism Essential Writings",
+		"Presenters": "Joanna Brooks, Rachel Hunt Steenblik, Hannah Wheelwright",
+		"Description": "Published by Oxford University Press in November 2015,  Mormon Feminism: Essential Writings gathers an important collection Mormon feminist writings from its beginnings in the 1970s to the present. Join editors and contributors in celebrating this historic volume and discussing where our community came from, where we are now, and where we are going.",
+		"URL": "http://sunstonemagazine.com/audio/SL16275.mp3",
+		"sessionId": 275,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Joanna Brooks", "Rachel Hunt Steenblik", "Hannah Wheelwright"],
+		"number": "275",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16276",
+		"Title": "Dialogue Jubilee Celebrating Fifty Years Of Mormonism S Leading Journal",
+		"Presenters": "Robert A. Rees, F. Ross Peterson, L. Jackson “Jack” Newel, Charlotte England, G. Wesley “Wes” Johnson, Martha Bradley-Evans",
+		"Description": "Beginning with its first issue, which showed two people sitting under a tree engaged in conversation, Dialogue: A Journal of Mormon Thought has encouraged dialogue by publishing leading-edge scholarly articles, personal essays, fiction, poetry, sermons and other writing that have engaged Latter-day Saints on vital subjects within Mormonism and in its interface with the world. Join founders, editors, and others in this retrospective celebration.",
+		"URL": "http://sunstonemagazine.com/audio/SL16276.mp3",
+		"sessionId": 276,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Robert A. Rees", "F. Ross Peterson", "L. Jackson “Jack” Newel", "Charlotte England", "G. Wesley “Wes” Johnson", "Martha Bradley-Evans"],
+		"number": "276",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16277",
+		"Title": "How Did I Find Myself Here Reflections On Later In Life Faith Transitioning",
+		"Presenters": "Jeralee Renshaw, Matt Jones, Kevin Perry Kapp, Kristina Olergård Tenney",
+		"Description": "This panel consists of persons who have chosen to remain engaged in Latter-day Saint religious life even after going through faith challenges that came to them later in life—a situation that is often far more difficult to manage than when one is young and less entrenched in family and cultural traditions. How did they come to find themselves in this situation that none of them ever dreamed of as a possibility? What ideas, tools, people, or settings have helped them survive these changes and find renewed optimism for long-time engagement within Mormonism?",
+		"URL": "http://sunstonemagazine.com/audio/SL16277.mp3",
+		"sessionId": 277,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jeralee Renshaw", "Matt Jones", "Kevin Perry Kapp", "Kristina Olergård Tenney"],
+		"number": "277",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16278",
+		"Title": "When Religion Creates Dragons Mama Dragon Panel",
+		"Presenters": "Wendy Montgomery, Shauna Jones, Neca Allgood, Melanie Delton",
+		"Description": "The LDS Church can claim to “love the sinner and hate the sin” all it wants, but if there were REAL love for LGBTQ people in Mormonism, there would be no need for the Mama Dragons—a group that started with seven women and is now almost 800 strong. Our hope is that one day there will be no need for mothers to have to turn into dragons to protect their children from their religious community. Until then, we are here with the courage, talons, and fire needed to protect God’s LGBTQ sons and daughters.",
+		"URL": "http://sunstonemagazine.com/audio/SL16278.mp3",
+		"sessionId": 278,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Wendy Montgomery", "Shauna Jones", "Neca Allgood", "Melanie Delton"],
+		"number": "278",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16291",
+		"Title": "Making Mormonism Mine Claiming Space Within The Faith",
+		"Presenters": "Robert Kirby, Carol Lynn Pearson, Fernando R. Gomez, Cathy Stokes, Lorie Winder Stromberg",
+		"Description": "With decades of experience in claiming space inside the institutional Church, the LDS community, and/or the Mormon intellectual community, this all-star panel will talk about how they have carved out a space in and around Mormonism.",
+		"URL": "http://sunstonemagazine.com/audio/SL16291.mp3",
+		"sessionId": 291,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Robert Kirby", "Carol Lynn Pearson", "Fernando R. Gomez", "Cathy Stokes", "Lorie Winder Stromberg"],
+		"number": "291",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16301",
+		"Title": "A Quest For Holiness A Devotional",
+		"Presenters": "Robert A. Rees",
+		"Description": "A quest for holiness is one of the more challenging dimensions of discipleship. Holiness is not something God can give but rather something we must desire and then pursue through conscious effort and unconscious yearning. Because holiness requires an ultimate commitment and a total surrender, few achieve it—or, achieving it, are able to sustain it. Holiness must come from some wellspring within, a virtue that grows in the soul and blossoms unexpectedly, like the night-blooming cereus. This session examines the dimensions of holiness and considers what insights Latter-day Saint theology offers in understanding and achieving it.",
+		"URL": "http://sunstonemagazine.com/audio/SL16301.mp3",
+		"sessionId": 301,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Robert A. Rees"],
+		"number": "301",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16311",
+		"Title": "Ready For Revelation",
+		"Presenters": "Lorie Winder Stromberg, Bryndis Roberts, Mark Barnes, Natasha Smith, Debra Jenson",
+		"Description": "Ordain Women’s theme for this year is Ready for Revelation. Mormonism is founded on a deep appreciation for continuing revelation, but what does \"continuing revelation\" mean and how does it happen? By using examples from Mormon history, panelists will discuss the process of revelation and how small changes preceded big revelations. The panel will examine the effectiveness of this year’s action and discuss how seeking for policy and behavioral changes within the Mormon faith corresponds with the historical process of revelation.",
+		"URL": "http://sunstonemagazine.com/audio/SL16311.mp3",
+		"sessionId": 311,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Lorie Winder Stromberg", "Bryndis Roberts", "Mark Barnes", "Natasha Smith", "Debra Jenson"],
+		"number": "311",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16312",
+		"Title": "Death S Bifocals Focusing Life S Joy S Magnifying Life S Violence",
+		"Presenters": "Randy Moss",
+		"Description": "To apprehend life, we must contemplate death. Socrates, Jesus, and the Buddha did just that, intertwining the threads of death with the qualities of life. However, the contemplation of death can also amplify violence and diminish one's quality of life. Using research from the field of terror management, this presentation will explore these two death forces and show how they can affect our own spiritual pursuits and our treatment of others.",
+		"URL": "http://sunstonemagazine.com/audio/SL16312.mp3",
+		"sessionId": 312,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Randy Moss"],
+		"number": "312",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16313",
+		"Title": "Face To Face Foundations For A Mystical Tradition In Mormonism",
+		"Presenters": "Philip McLemore",
+		"Description": "Mysticism, properly understood and practiced, is the quest for a deep and direct realization of God and Self. It is conscious awakening into the mystery of life itself and therefore vital for vibrant, spiritual living as individuals and as a community. Sadly, a rich mystical tradition has not developed in Mormonism in spite of the fact that Mormon theology and scripture contain unique elements for its development. This presentation will explore these theological and scriptural keys.",
+		"URL": "http://sunstonemagazine.com/audio/SL16313.mp3",
+		"sessionId": 313,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Philip McLemore"],
+		"number": "313",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16314",
+		"Title": "Casa Volunteering And Child Abuse In The Mormon Culture",
+		"Presenters": "Marisa McPeck-Stringham",
+		"Description": "Through my volunteer work as a court appointed special advocate (CASA) with foster and/or DCFS-identified high-risk children in northern Utah I have identified patterns of child abuse within Mormon culture. This presentation will describe familial structures that lead to cycles of abuse within Mormon families. It will also identify ways of breaking those abusive patterns and empowering abuse victims to speak out—all the while focusing on maintaining biological family structures when possible.",
+		"URL": "http://sunstonemagazine.com/audio/SL16314.mp3",
+		"sessionId": 314,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Marisa McPeck-Stringham"],
+		"number": "314",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16315",
+		"Title": "Mapping Many Mormonisms",
+		"Presenters": "John Hamer",
+		"Description": "John has created hundreds of maps and diagrams which outline the relationships—geographical, historical, and conceptual—between the many expressions of Mormonism. This presentation will visually map the schisms and connections between the many branches of Mormonism using dozens of original maps and diagrams.",
+		"URL": "http://sunstonemagazine.com/audio/SL16315.mp3",
+		"sessionId": 315,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["John Hamer"],
+		"number": "315",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16316",
+		"Title": "Polygamy And Religious Freedom",
+		"Presenters": "Pam Jenson, Kristyn Decker, Brenda Nicholson, Shelli Mecham",
+		"Description": "This panel will discuss how the topic of Religious Freedom intersects with polygamy and how the implications of some of the proposed interpretations of the idea would affect those living polygamy.",
+		"URL": "http://sunstonemagazine.com/audio/SL16316.mp3",
+		"sessionId": 316,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Pam Jenson", "Kristyn Decker", "Brenda Nicholson", "Shelli Mecham"],
+		"number": "316",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16321",
+		"Title": "Progressive Polygamy Feminism S Strangest Bedfellow",
+		"Presenters": "Brady Williams",
+		"Description": "Is there a way to practice polygamy without patriarchy? One family has been trying. This presentation will outline a feminist approach to polygamy and how one polygamous family has tried to build equality into its structure.",
+		"URL": "http://sunstonemagazine.com/audio/SL16321.mp3",
+		"sessionId": 321,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Brady Williams"],
+		"number": "321",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16322",
+		"Title": "Expanding The Definition Of The Faithful Mormon Woman Embracing Education Career And Family",
+		"Presenters": "Naomi Watkins, Dianne Orcutt, Heidi Doxey",
+		"Description": "This session focuses on the ways that Mormon women are individually and collectively broadening their spheres of influence to encompass education, career, and family. They have embraced rich and diverse experiences as a precursor to, but also in tandem with, increased institutional acceptance through endeavors such as the “I’m a Mormon” campaign and calling women with careers to church boards.",
+		"URL": "http://sunstonemagazine.com/audio/SL16322.mp3",
+		"sessionId": 322,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Naomi Watkins", "Dianne Orcutt", "Heidi Doxey"],
+		"number": "322",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16323",
+		"Title": "The Community Of Christ An American Ecumenical And Progressive Protestantism With Mormonism As An Option",
+		"Presenters": "Chrystal Vanel",
+		"Description": "From its beginning as a moderate midwestern Mormonism, the Reorganized Church of Jesus Christ of Latter Day Saints integrated into American pluralist modernity. The Community of Christ is today part of the National Council of Churches in the USA. American identity is still predominant in the Community of Christ, whose theology and ethics are defined by an American progressive leadership striving to unite a diverse membership through common rituals. Thus the Community of Christ is an American Ecumenical and Progressive Protestantism with Mormonism as an option.",
+		"URL": "http://sunstonemagazine.com/audio/SL16323.mp3",
+		"sessionId": 323,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Chrystal Vanel"],
+		"number": "323",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16324",
+		"Title": "Mormon Mental Health Association A Discussion Of What S Not Up For Discussion",
+		"Presenters": "Joshua Neal",
+		"Description": "Within Mormonism there is an increased need to understand some members’ tendency to hold certain topics sacrosanct. Join us for a discussion on how this need to maintain a stable sense of reality can keep certain ideas off the table — and how we may navigate the turbulence caused when competing realities collide.",
+		"URL": "http://sunstonemagazine.com/audio/SL16324.mp3",
+		"sessionId": 324,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Joshua Neal"],
+		"number": "324",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16325",
+		"Title": "A Prism For The Isms The Journey From Which Church Is Right To My Ism Is Better Than Your Ism",
+		"Presenters": "Russ Osmond",
+		"Description": "Nearly every social movement of any permanent consequence in American history traces its roots to the first half of the 19th century in \"The Burned Over District\" of western New York State. They often verbalize their intent to be \"...On the Right Hand of God\"; hence, the cacophony of confusion they all reference. \"ISMs\" of all types found root in that frontier along both sides of The Erie Canal. This Session provides a birds-eye view of the birthing sequence of today's extremisms plus a clarifying lens through which to discuss WHY there are so many \"Mormon-ISMs\".",
+		"URL": "http://sunstonemagazine.com/audio/SL16325.mp3",
+		"sessionId": 325,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Russ Osmond"],
+		"number": "325",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16326",
+		"Title": "Heretics Are Not Apostates A Social Conflict Theory Approach To Mutually Dissing Our Fellows",
+		"Presenters": "Charles Randall Paul",
+		"Description": "In The Heretical Imperative, sociologist Peter Berger de-fangs the term “heretic,” helping us see the forces at play in producing heretics as natural and inevitable. No group, once formed, remains pure. Some members of that group will notice the changes and suggest ways in which the group has lost its original purity, and how to get it back. Is there a limit to “heresy” before it becomes “apostasy”? If so, what are the boundaries that separate loyal dissenter and outsider enemy? How can we understand the dynamics of our dissents?",
+		"URL": "http://sunstonemagazine.com/audio/SL16326.mp3",
+		"sessionId": 326,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Charles Randall Paul"],
+		"number": "326",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16327",
+		"Title": "From Lost Tribes To Mormon Humor One Man S Faith Journey Through Mormon Folklore Studies",
+		"Presenters": "Glenn Ostlund",
+		"Description": "Starting at BYU in the missionary collection of the William A, Wilson folklore archives, continuing at Indiana University with a masters thesis on Japanese Mormon lost tribe lore, and ending with a half-finished dissertation on Mormon humor, Glenn reflects on his time studying and teaching Mormon folklore, and the ways it impacted his family, his beliefs, and his faith.",
+		"URL": "http://sunstonemagazine.com/audio/SL16327.mp3",
+		"sessionId": 327,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Glenn Ostlund"],
+		"number": "327",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16328",
+		"Title": "Battle For The Beginners An Argument Over How To Present Mormonism To Newbies",
+		"Presenters": "Christopher Kimball Bigelow, Stephen Carter",
+		"Description": "Christopher Bigelow and Stephen Carter have both authored guides for people new to Mormonism. Along the way, they encountered sticky questions.  How do you decide what the \"essentials\" of Mormonism are in the first place?  How do you talk about difficult aspects of Mormon history? How do you present the attractions of Mormonism without being preachy? How much should you talk about temple ceremonies? Chris and Stephen will argue over these questions and more.",
+		"URL": "http://sunstonemagazine.com/audio/SL16328.mp3",
+		"sessionId": 328,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Christopher Kimball Bigelow", "Stephen Carter"],
+		"number": "328",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16331",
+		"Title": "Joseph Smith S Teachings About Priesthood Temple And Women",
+		"Presenters": "Clair Barrus, Bryndis Roberts, Nancy Ross",
+		"Description": "In October 2015 the Church released its essay “Joseph Smith’s Teachings about Priesthood, Temple, and Women. This panel explores early teachings about these concepts, including the “Anointed  Quorum”, and their implications for LDS women today.",
+		"URL": "http://sunstonemagazine.com/audio/SL16331.mp3",
+		"sessionId": 331,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Clair Barrus", "Bryndis Roberts", "Nancy Ross"],
+		"number": "331",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16332",
+		"Title": "Who Holds The Keys Flds Persepctives On Authority",
+		"Presenters": "John Nielsen, D. Michael Quinn",
+		"Description": "Representing the FLDS persepctive, John Nielsen will explain the claim to priesthood authority from a fundamentalist point of view. He will be responded to by D. Michael Quinn, representing the LDS point of view.",
+		"URL": "http://sunstonemagazine.com/audio/SL16332.mp3",
+		"sessionId": 332,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["John Nielsen", "D. Michael Quinn"],
+		"number": "332",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16333",
+		"Title": "Truth Beauty And Goodness A Way To Bridge Differences Between Mormons And Former Mormons",
+		"Presenters": "Jon Ogden",
+		"Description": "When people leave the Mormon Church, tensions can rise up between them and their still-faithful families and friends. By turning to the ancient idea of truth, beauty, and goodness we can find a way to close the gap between believers and nonbelievers, diminishing these tensions and replacing them with love.",
+		"URL": "http://sunstonemagazine.com/audio/SL16333.mp3",
+		"sessionId": 333,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jon Ogden"],
+		"number": "333",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16334",
+		"Title": "Landing Instructions How To Navigate Or Help Someone Navigating Faith Crisis",
+		"Presenters": "Boyd Jay Petersen",
+		"Description": "A faith crisis is like turbulence on a airplane: one minute everything is fine, then the plane starts shaking; you feel powerless and scared. Worse, unlike on an plane where your fellow passengers are gripping their seats the same way we are, in a faith crisis we often feel like we’re alone. Though airplane turbulence usually passes, nothing returns to normal after a faith crisis. Going through this transformation isn’t easy, but it can lead to a deeper faith, a richer life, and greater communion with our traveling companions.",
+		"URL": "http://sunstonemagazine.com/audio/SL16334.mp3",
+		"sessionId": 334,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Boyd Jay Petersen"],
+		"number": "334",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16335",
+		"Title": "Conversations With Harry Sectarianism And The One True Church",
+		"Presenters": "Janice Allred",
+		"Description": "My ninety-five-year-old friend, Harry Fox, has ministered his whole life in the Church of Christ, which originated in the Campbellite restoration movement, and we have had many conversations about the quest for the true church of Christ. This paper explores the basic issues of these dialogues. Can the true church of Christ be found in many different denominations or must it be housed in one structure? What are the characteristics of the true church of Christ? Is membership in the correct institutional church required for salvation?",
+		"URL": "http://sunstonemagazine.com/audio/SL16335.mp3",
+		"sessionId": 335,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Janice Allred"],
+		"number": "335",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16336",
+		"Title": "Sunstone Service Project",
+		"Presenters": "Ashley Hoopes",
+		"Description": "Each year Sunstone seeks to fulfill the humanitarian part of our mission. For this session, we will be assembling hygiene kits for homeless families in Utah. Pop in if you'd like to help.",
+		"URL": "http://sunstonemagazine.com/audio/SL16336.mp3",
+		"sessionId": 336,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Ashley Hoopes"],
+		"number": "336",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16337",
+		"Title": "Mormon Spotlight The Problem Of Child Sex Abuse In The Lds Church",
+		"Presenters": "Matt Long",
+		"Description": "Attorney Matt Long (of Infants on Thrones) and board members of Restore our Humanity (a human rights advocacy group) will discussion reasons why sexual abuse is so pervasive in the LDS Church, how Church doctrine and policy contribute to the abuse, why that abuse is underreported, and what is being done to give past victims a voice and protect children in the future.",
+		"URL": "http://sunstonemagazine.com/audio/SL16337.mp3",
+		"sessionId": 337,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Matt Long"],
+		"number": "337",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16338",
+		"Title": "The Mormon Hawaiian Mission And The Smallpox Epidemic Of 1853",
+		"Presenters": "John J. Hammond",
+		"Description": "In 1851–1852 Utah Mormon missionaries converted hundreds of native Hawaiians on Maui, and during the spring of 1853 hundreds more on Oahu. In 1853 the smallpox virus reached Honolulu and spread among natives who had no natural immunity to it. The Utah elders interfered with efforts of authorities to deal with the disease claiming it was part of the \"scourges\" accompanying the imminent Second Coming, and promising that their healing powers (priesthood \"administrations\") would protect the native saints. Constantly violating the quarantine, the Utah and native Mormon elders likely spread the disease to other Oahu villages, causing many deaths.",
+		"URL": "http://sunstonemagazine.com/audio/SL16338.mp3",
+		"sessionId": 338,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["John J. Hammond"],
+		"number": "338",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16342",
+		"Title": "Lunch With Femwoc A Panel About Empowerment Within The Margins",
+		"Presenters": "Bryndis Roberts, Gina Colvin, Natasha Smith, Jennifer Gonzalez, Kalani Tonga",
+		"Description": "Last year FEMWOC discussed how policies, procedures, and the imperialist American culture of the Mormon Church shaped the experiences of women of color—including black, diasporic, and indigenous women. Panel members will explore how women of color are using their experiences to claim space and establish roots within our physical wards and communities, the progressive Mormon community, and elsewhere.",
+		"URL": "http://sunstonemagazine.com/audio/SL16342.mp3",
+		"sessionId": 342,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Bryndis Roberts", "Gina Colvin", "Natasha Smith", "Jennifer Gonzalez", "Kalani Tonga"],
+		"number": "342",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16351",
+		"Title": "Four Views Of The Book Of Mormon",
+		"Presenters": "Brant A. Gardner, David Bokovoy, Mark Thomas, Sandra Tanner",
+		"Description": "Is the Book of Mormon an inspired history of ancient peoples? An inspired scriptural narrative? A work of great literature? Or a nineteenth-century plagiarism? In a friendly debate, four historians will each defend a different hypothesis. Panelists will buttress classic arguments with new insights and original research to make the strongest possible cases for their respective views.",
+		"URL": "http://sunstonemagazine.com/audio/SL16351.mp3",
+		"sessionId": 351,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Brant A. Gardner", "David Bokovoy", "Mark Thomas", "Sandra Tanner"],
+		"number": "351",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16352",
+		"Title": "The Future Of Dialogue What Might The Next Fifty Years Bring",
+		"Presenters": "Boyd Jay Petersen, Emily W. Jensen, Kristine Haglund",
+		"Description": "As Bob Dylan suggests: “The times they are a changin’.” And so must ways of reaching one’s intended audience. Please join recent and current Dialogue editors and board members as they discuss how to keep the journal relevant and accessible in this digital century with far more accessibility to studies and reflections on all aspects of Mormon history, culture, art, and thought than ever before. Come with your ideas, as well!",
+		"URL": "http://sunstonemagazine.com/audio/SL16352.mp3",
+		"sessionId": 352,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Boyd Jay Petersen", "Emily W. Jensen", "Kristine Haglund"],
+		"number": "352",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16353",
+		"Title": "Deep Shift Reassessing The Restoration",
+		"Presenters": "Paul Toscano",
+		"Description": "This session presents an overview of the LDS Church's 186-year mythical and historical narrative arc, from its promising 19th-century origins to its defaulting 21st-century decomposition. Where will the Church head from here?",
+		"URL": "http://sunstonemagazine.com/audio/SL16353.mp3",
+		"sessionId": 353,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Paul Toscano"],
+		"number": "353",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16354",
+		"Title": "The 2 Nd Reformation Keeping A Record Of The Mormon Internet Experience In The Beginning Of The 21 St Century",
+		"Presenters": "Bill Reel, Melissa Young, Gina Colvin, Sarah Collett",
+		"Description": "As the Internet becomes a dominant factor in religious life, it is important that we begin to record, and if possible, quantify the ways in which members of the Church, in all their variety, perceive and experience each other, the institution, and theology through blogs, podcasts, discussion forums, and websites. Is this collective experience beneficial or detrimental? How does our relationship with social media affect our relationships and communities at home? Does the internet serve all demographics fairly?",
+		"URL": "http://sunstonemagazine.com/audio/SL16354.mp3",
+		"sessionId": 354,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Bill Reel", "Melissa Young", "Gina Colvin", "Sarah Collett"],
+		"number": "354",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16355",
+		"Title": "The Persistence Of Ideas About Reincarnation In Today S Mormonism",
+		"Presenters": "Doe Daughtrey, Bill Hansen, Lisa Hansen, Dan Wotherspoon",
+		"Description": "Though not officially taught as doctrine, ideas concerning the potential reincarnation of souls have held some sway in Latter-day Saint minds and hearts. Some Mormons claim that they can access past lives or experiences in a way that suggests they’ve been incarnated on earth before. This panel examines reincarnation in light of LDS theology concerning the body and eternal progression. It will also offer a peek into the lives of contemporary Mormons who feel empowered by their experiences or belief in this possibility.",
+		"URL": "http://sunstonemagazine.com/audio/SL16355.mp3",
+		"sessionId": 355,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Doe Daughtrey", "Bill Hansen", "Lisa Hansen", "Dan Wotherspoon"],
+		"number": "355",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16356",
+		"Title": "William Bickerton V Brigham Young The Case Against Polygamy",
+		"Presenters": "Daniel Stone, D. Michael Quinn",
+		"Description": "Sometime in late 1851 or early 1852, Brigham Young decided to publicly endorse plural marriage. While attending a church meeting in Allegheny City, Pennsylvania, William Bickerton, a dedicated Mormon elder, heard the shocking news. He arose from his seat and declared, “If the approval of God were to come to [me] by accepting the doctrine of polygamy, [I would] prefer the displeasure of God.” The session will explore why Bickerton challenged polygamy and why this dramatic event prompted him to forsake Brigham Young and establish a new church.",
+		"URL": "http://sunstonemagazine.com/audio/SL16356.mp3",
+		"sessionId": 356,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Daniel Stone", "D. Michael Quinn"],
+		"number": "356",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16357",
+		"Title": "Many Infants On Multiple Thrones What We Do Why We Do It And How We Think It Matters",
+		"Presenters": "Jake Frost, Tom Perry, Matt Long, John Hamer, Scott Rowley, Glenn Ostlund, Heather Craw",
+		"Description": "Infants on Thrones (Heather, John, Glenn, Jake, Matt, Scott, and Tom) commemorates its fourth year of podcasting by reflecting on the highs and lows of irreverently ponderizing the philosophies of men, mingled with humor.",
+		"URL": "http://sunstonemagazine.com/audio/SL16357.mp3",
+		"sessionId": 357,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jake Frost", "Tom Perry", "Matt Long", "John Hamer", "Scott Rowley", "Glenn Ostlund", "Heather Craw"],
+		"number": "357",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16358",
+		"Title": "New Directions And New Opportunities For Addressing Malnutrition Among Lds Children",
+		"Presenters": "Robert A. Rees, Bradley Walker, Tim Heaton, Rose Ansah-Antwi",
+		"Description": "Severe, acute malnutrition affects tens of thousands of Latter-day Saint children in the developing world. Currently, the Liahona Children’s Foundation is addressing the critical needs of more than 11,000 children in over 180 stakes in 17 countries, from Africa to Mongolia. Through its Adopt-a-Stake program and other efforts, the Foundation seeks to expand its work even further. Come and learn how you can volunteer and contribute to this essential work of meeting the needs of the Lord’s most vulnerable children.",
+		"URL": "http://sunstonemagazine.com/audio/SL16358.mp3",
+		"sessionId": 358,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Robert A. Rees", "Bradley Walker", "Tim Heaton", "Rose Ansah-Antwi"],
+		"number": "358",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16361",
+		"Title": "New Book The Ghost Of Eternal Polygamy",
+		"Presenters": "Carol Lynn Pearson",
+		"Description": "Drawing on material from her just-released book, The Ghost of Eternal Polygamy: Haunting the Gearts and Heaven of Mormon Women and Men, Pearson will share stories from the more than 8,000 respondents to her survey on this subject. The picture is one of extraordinary pain, showing how the lingering and powerful presence of polygamy in our psyches, our temples, our scripture, and our anticipation of eternity destroys marriages, debilitates women’s self-esteem, harms men, and erodes faith in the church and in God.",
+		"URL": "http://sunstonemagazine.com/audio/SL16361.mp3",
+		"sessionId": 361,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Carol Lynn Pearson"],
+		"number": "361",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16362",
+		"Title": "Power From The Margins Reclaiming The Promised Land",
+		"Presenters": "Moroni Benally",
+		"Description": "Decolonization is a conscious resistance to, and re-centering of, power arrangements between indigenous and settler-colonial societies. Decolonization is different in a society where the colonizer has a permanent presence. The members of The Church of Jesus Christ of Latter-day Saints who interpret and actualize the mission of the Church are largely informed by settler-colonialism. In this paper, I demonstrate how members of the Church have designed and implemented the programs of the Church to deny and deflect their complicity in colonization and how Indigenous people can resist.",
+		"URL": "http://sunstonemagazine.com/audio/SL16362.mp3",
+		"sessionId": 362,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Moroni Benally"],
+		"number": "362",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16363",
+		"Title": "Mormon Alchemy Making A Life That Matters From Mormonism S Most Common Sometimes Even Ugly Elements",
+		"Presenters": "Paul Malan",
+		"Description": "Hundreds of years ago, alchemy was the medieval predecessor to chemistry—an almost-scientific determination to transform that which is common, like lead, into something valuable, like gold. What would Mormonism look like if each of us learned to become Mormon alchemists? What if, instead of picking around the parts we dislike, or fighting against our religious reality, we could transform the most common elements of our Mormon experience into something fundamentally valuable?",
+		"URL": "http://sunstonemagazine.com/audio/SL16363.mp3",
+		"sessionId": 363,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Paul Malan"],
+		"number": "363",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16364",
+		"Title": "Misreading Scripture The Abrahamic Sacrifice Reconsidered",
+		"Presenters": "Robert A. Rees",
+		"Description": "Abraham’s attempted sacrifice of his son, Isaac, is often seen as the great paradigm for absolute faith and unquestioning obedience. Blind obedience has become the ultimate obedience—whether it is women acquiescing to polygamy, blacks accepting priesthood limitations, gays practicing celibacy, and, most recently, LDS Church members accepting the official account of the Church’s policy change on LGBT parents and their children. This session takes a fresh look at the Abrahamic covenant and argues that it is often misinterpreted and misused, including in Mormonism, to the detriment of many.",
+		"URL": "http://sunstonemagazine.com/audio/SL16364.mp3",
+		"sessionId": 364,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Robert A. Rees"],
+		"number": "364",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16365",
+		"Title": "Woman Of Another World I Am With You Heavenly Mother In Mormon Poetry",
+		"Presenters": "Tyler Chadwick",
+		"Description": "The A Mother Here Art and Poetry Contest (2014) aimed to counter Mormonism’s cultural silence about Heavenly Mother, to inspire thinking about the Divine Feminine, and to show that Heavenly Mother is a valued part of the Mormon religious tradition by encouraging artistic and literary portrayals of Her. In my presentation, I will read and comment on the poems featured in the contest in an attempt to express the nearness of our Heavenly Mother and to witness Her presence in the cosmos (as coeval with Father) and in the intimate details of our lives.",
+		"URL": "http://sunstonemagazine.com/audio/SL16365.mp3",
+		"sessionId": 365,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Tyler Chadwick"],
+		"number": "365",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16366",
+		"Title": "Text Mining 30 Years Of Sunstone Talks",
+		"Presenters": "Jake Spurlock, Jake Frost",
+		"Description": "Two Jakes unite in a follow-up to Spurlock's presentation at last year's symposium (Data Analysis of 30+ Years of Sunstone Talks). Applying various text-mining methods to the archive of talks Spurlock created, the two will discuss the trends in themes and topics they've discovered in the data.",
+		"URL": "http://sunstonemagazine.com/audio/SL16366.mp3",
+		"sessionId": 366,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Jake Spurlock", "Jake Frost"],
+		"number": "366",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16367",
+		"Title": "Mormonism As A Religious Ethnie",
+		"Presenters": "G. Campbell Macnaughton",
+		"Description": "Modernist theories of nationalism include an approach called ethnosymbolism which proposes that proto-nations or ‘ethnies’ are seedbeds for the development of nations. While an ethnie may a precursor to a nation, they are not a perfect predictor. To develop into a nation an ethnie would have to master common economy, legal structures and reproduce a mass cultural identity. Mormonism demonstrates some of the key theoretical concepts that identify an ethnie: a mythomoteur, a golden-age, a territorial homeland, and a messianic mission. Mormonism, as a cultural ethnie, will be reviewed with emphasis on convergence and divergence with ethnosymbolist principles.",
+		"URL": "http://sunstonemagazine.com/audio/SL16367.mp3",
+		"sessionId": 367,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["G. Campbell Macnaughton"],
+		"number": "367",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16368",
+		"Title": "Start By Believing Preventing Sexual Assault And Supporting Survivors In The Mormon Community",
+		"Presenters": "April Carlson, Kathryn Jones, Donna Kelly, DeAnn Tilton, Sarita Venkatapathy",
+		"Description": "Join panelists April Carlson, Kathryn Jones-Porter, Donna Kelly, DeAnn Tilton, and Sarita Venkatapathy to discuss ways in which communities can work safely to prevent sexual assault and skillfully to support survivors in healing. Panel will be moderated by Aubri Parmenter.",
+		"URL": "http://sunstonemagazine.com/audio/SL16368.mp3",
+		"sessionId": 368,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["April Carlson", "Kathryn Jones", "Donna Kelly", "DeAnn Tilton", "Sarita Venkatapathy"],
+		"number": "368",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16371",
+		"Title": "Repairing And Preserving Relationships Damaged By Faith Crises",
+		"Presenters": "Russ Osmond, Steve Lowther, John Dehlin, Sandra Tanner, Grant Palmer, Thomas McConkie, Gina Colvin",
+		"Description": "Many who have undergone crises of faith have found one of the most devasting by-products is damage to relationships with family and friends. This panel will explore personal experience strategies, mistakes, and perspectives in dealing with these fractures. The emphasis will be upon \"keeping relationships in good repair\".",
+		"URL": "http://sunstonemagazine.com/audio/SL16371.mp3",
+		"sessionId": 371,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Russ Osmond", "Steve Lowther", "John Dehlin", "Sandra Tanner", "Grant Palmer", "Thomas McConkie", "Gina Colvin"],
+		"number": "371",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16372",
+		"Title": "The Lds Church S Policy Changes On Lgbt Parents And Their Children",
+		"Presenters": "Carol Lynn Pearson, Caitlyn Ryan, Mitch Mayne, Robert A. Rees",
+		"Description": "This panel will discuss the implications of the LDS Church's most recent policy regarding LGBT couples and their families.",
+		"URL": "http://sunstonemagazine.com/audio/SL16372.mp3",
+		"sessionId": 372,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Carol Lynn Pearson", "Caitlyn Ryan", "Mitch Mayne", "Robert A. Rees"],
+		"number": "372",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16373",
+		"Title": "Handshakes Drawn Swords",
+		"Presenters": "Bill Reel",
+		"Description": "Plural marriage was announced as an official doctrine of the LDS church in 1852. Although not cannonized as Doctrine and Covenants Sec 132 until 1876 it nonetheless became the pivot point of 19th century Mormonism until it’s reluctant abandonment near the end of the century. The apologists tell us that all is in order and that Joseph carried out plural marriage in accordance with sec 132 however, many reasonable people read sec 132 and are left bewildered of the disconnect between how Joseph practiced plural marriage and the guidelines laid out by God. Could there be another explanation?",
+		"URL": "http://sunstonemagazine.com/audio/SL16373.mp3",
+		"sessionId": 373,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Bill Reel"],
+		"number": "373",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16374",
+		"Title": "Claiming Our Gifts And Knowing The Roots Of Our Mormon Identities Sponsored By The Mormon Women S Forum",
+		"Presenters": "Margaret Toscano, Linda King Newell, Janice Allred",
+		"Description": "This panel will explore why Mormon women of many different varieties and persuasions value spiritual gifts, whether they are still believers or not, and whether they are still in the LDS Church or not. And we will examine the roots and fruits of these beliefs and practices.",
+		"URL": "http://sunstonemagazine.com/audio/SL16374.mp3",
+		"sessionId": 374,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Margaret Toscano", "Linda King Newell", "Janice Allred"],
+		"number": "374",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16375",
+		"Title": "Mormon Magic And The Religious World View",
+		"Presenters": "Cheryl Bruno, Michael G. Reed, Allen Hansen",
+		"Description": "Hansen: Finding treasure and other wealth (in Jewish tradition) fits the spiritual schema of redemption. By examining folklore, responsa, etc, lessons can be drawn to better understand Mormonism. Bruno: Alchemist were a “necessary agent of creative transmutation: a priest in a hallowed, ancient priesthood; a son of the Widow; a knower of creation's ancient secret; a digger after hidden treasure.” England will be a focus. Reed: Vicarious work for the dead, particularly among German and other Christian treasure seekers. As the granting of three wishes freed an otherwise trapped Genii, treasure guarding spirits could be freed from their trapped/limbo state.",
+		"URL": "http://sunstonemagazine.com/audio/SL16375.mp3",
+		"sessionId": 375,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Cheryl Bruno", "Michael G. Reed", "Allen Hansen"],
+		"number": "375",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16376",
+		"Title": "Centennial Park A Priesthood Story",
+		"Presenters": "Joseph Dockstader, Lorine Dockstader, Polly, Stan Shepp",
+		"Description": "Several members of the Centennial Park Action Committee (CPAC) will discuss their Mormon faith.",
+		"URL": "http://sunstonemagazine.com/audio/SL16376.mp3",
+		"sessionId": 376,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Joseph Dockstader", "Lorine Dockstader", "Polly", "Stan Shepp"],
+		"number": "376",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16377",
+		"Title": "Adam And Eve Film The Series Screening",
+		"Description": "Repeat Screening of session 252",
+		"URL": "http://sunstonemagazine.com/audio/SL16377.mp3",
+		"Presenters": "Davey Morrison Dillard, Bianca Morrison Dillard",
+		"sessionId": 377,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Davey Morrison Dillard", "Bianca Morrison Dillard"],
+		"number": "377",
+		"event": "Salt Lake"
+	}, {
+		"Audio": "SL16382",
+		"Title": "An Evening With Tyler Glenn",
+		"Presenters": "Tyler Aaron Glenn",
+		"Description": "A BBQ Dinner will be served in the Union Ballroom from 6:30 – 7:30pm. Following dinner, Tyler Glenn will show his video and speak about his Mormon journey, his music, and his latest video Trash.",
+		"URL": "http://sunstonemagazine.com/audio/SL16382.mp3",
+		"sessionId": 382,
+		"tag": "SL",
+		"year": "2016",
+		"presenters": ["Tyler Aaron Glenn"],
+		"number": "382",
+		"event": "Salt Lake"
+	}]
 }
